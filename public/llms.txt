@@ -1,0 +1,81 @@
+# anael — Generative Engine Optimization Map
+
+> A sanitary ware brand specializing in a hidden towel bar — a sleek, concealed bathroom accessory that combines functionality with minimalist design. The product is designed to keep bathrooms clean and uncluttered, appealing to modern interior aesthetics. The brand focuses on innovative, space-saving solutions for contemporary bathrooms.
+
+---
+
+## Pages
+
+### בית
+https://anael-dd53e6a6.zappy5.app
+מתלה מגבות נסתר שמשנה את פני האמבטיה שלך לתמיד. עיצוב מינימליסטי, פתרון חכם לחלל, ואלגנטיות שמסתתרת בקיר. הכנס לעולם של anael וגלה כיצד.
+
+### מוצר
+https://anael-dd53e6a6.zappy5.app/product
+מתלה מגבות מוסתר בקיר בעיצוב חדשני שמשלב פונקציונליות עם אסתטיקה נקייה. ראה את כל הפרטים, המידות והחומרים שהופכים את המוצר הזה לחובה בכל אמבטיה מודרנית.
+
+### אודות
+https://anael-dd53e6a6.zappy5.app/about
+anael נולדה מתוך חזון לשנות את האופן שבו אנחנו חושבים על אמבטיה. גלה את הפילוסופיה, הערכים והאנשים שמאחורי מתלה המגבות הנסתר שכבש את לב המעצבים.
+
+### צור קשר
+https://anael-dd53e6a6.zappy5.app/contact
+יש לך שאלה על מתלה המגבות הנסתר לאמבטיה או רוצה לשמוע עוד על הפתרונות שלנו? צוות anael כאן בשבילך — צור קשר עכשיו ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://anael-dd53e6a6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://anael-dd53e6a6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://anael-dd53e6a6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://anael-dd53e6a6.zappy5.app/contact
+- Endpoint: https://anael-dd53e6a6.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About anael
+A sanitary ware brand specializing in a hidden towel bar — a sleek, concealed bathroom accessory that combines functionality with minimalist design. The product is designed to keep bathrooms clean and uncluttered, appealing to modern interior aesthetics. The brand focuses on innovative, space-saving solutions for contemporary bathrooms.
+
+## Target Audience
+- משפצים ביתיים
+- מעצבי פנים
+- קבלני נדל"ן
+- בעלי בתים יוקרתיים
+- אולמות תצוגה לכלים סניטריים
+- לקוחות פרטיים
+
+## Industry
+כלים סניטרים ואביזרי אמבטיה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://anael-dd53e6a6.zappy5.app/sitemap.xml
+- Robots: https://anael-dd53e6a6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://anael-dd53e6a6.zappy5.app/llms-full.txt
