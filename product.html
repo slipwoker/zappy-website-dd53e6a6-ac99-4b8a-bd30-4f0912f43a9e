@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <title>המוצר שהאמבטיה שלך חיכתה לו — anael</title>
-    <meta name="description" content="מתלה מגבות מוסתר בקיר בעיצוב חדשני שמשלב פונקציונליות עם אסתטיקה נקייה. ראה את כל הפרטים, המידות והחומרים שהופכים את המוצר הזה לחובה בכל אמבטיה מודרנית.">
-    <meta name="keywords" content="מתלה מגבות מוסתר בקיר, מתלה מגבות נסתר לאמבטיה, כלים סניטרים מעוצבים, אביזרי אמבטיה חדשניים, פתרונות חיסכון במקום">
+    <title>פרטי המוצר</title>
+    <meta name="description" content="פרטי המוצר - anael">
+    <meta name="keywords" content="">
     
     <!-- Favicons -->
     <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
@@ -218,11 +218,11 @@
 })();
 </script>
 <!-- End Zappy Analytics -->
-    <meta property="og:title" content="המוצר שהאמבטיה שלך חיכתה לו — anael">
-    <meta property="og:description" content="מתלה מגבות מוסתר בקיר בעיצוב חדשני שמשלב פונקציונליות עם אסתטיקה נקייה. ראה את כל הפרטים, המידות והחומרים שהופכים את המוצר הזה לחובה בכל אמבטיה מודרנית.">
+    <meta property="og:title" content="פרטי המוצר">
+    <meta property="og:description" content="פרטי המוצר - anael">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="המוצר שהאמבטיה שלך חיכתה לו — anael">
-    <meta name="twitter:description" content="מתלה מגבות מוסתר בקיר בעיצוב חדשני שמשלב פונקציונליות עם אסתטיקה נקייה. ראה את כל הפרטים, המידות והחומרים שהופכים את המוצר הזה לחובה בכל אמבטיה מודרנית.">
+    <meta name="twitter:title" content="פרטי המוצר">
+    <meta name="twitter:description" content="פרטי המוצר - anael">
     <meta property="og:type" content="website">
   <meta property="og:locale" content="he_IL">
   
@@ -245,6 +245,8 @@
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="/styles.css">
 
     <style id="zappy-dropdown-submenu-styles">
@@ -336,6 +338,25 @@
 </head>
 <body>
 
+  <script>
+    window.ZAPPY_WEBSITE_ID = "dd53e6a6-ac99-4b8a-bd30-4f0912f43a9e";
+    // Preview pages are served by the Zappy server itself (localhost in dev), so use that base.
+    // Deployed sites are static and must call the public Zappy API (never localhost).
+    window.ZAPPY_API_BASE = "https://api.zappy5.com";
+  </script>
+  
+    <div class="mobile-search-panel" id="mobile-search-panel">
+      <div class="search-wrapper">
+        <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
+        <button class="search-submit" id="mobile-search-submit" title="חיפוש">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        </button>
+        <button class="close-search" id="close-mobile-search">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+      <div class="search-results" id="mobile-search-results"></div>
+    </div>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -357,699 +378,55 @@
       <a href="/" class="logo-link">
         <img src="/assets/anael-logo.webp" alt="anael" class="logo">
       </a>
-    </div><ul class="nav-menu" id="navMenu"><li><a href="/">בית</a></li><li><a href="/product">מוצר</a></li><li><a href="/about">אודות</a></li></ul></div>
+    </div><ul class="nav-menu" id="navMenu">
+
+    <li class="menu-item-has-children zappy-products-dropdown">
+      <a href="/products">
+        מוצרים
+        <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M6 9l6 6 6-6"></path>
+        </svg>
+      </a>
+      <ul class="sub-menu" id="zappy-nav-category-links">
+        <li><a href="/products">כל המוצרים</a></li>
+        <!-- Categories will be loaded dynamically -->
+      </ul>
+    </li>
+  <li><a href="/">בית</a></li><li><a href="/product">מוצר</a></li><li><a href="/about">אודות</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><div class="nav-search-box">
+    <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
+    <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+    </button>
+    <div class="nav-search-results" id="nav-search-results"></div>
+  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button></div></div>
 
     
 
-    <div class="nav-cta-container">
-      <a href="/contact" class="nav-cta-btn">צור קשר</a>
-    </div>
+    
   </div>
 </nav>
-<script>
-
-// Navbar Mobile Menu Toggle and Contrast Fix
-(function() {
-  // Use 'load' event instead of 'DOMContentLoaded' to ensure we run AFTER all other scripts
-  window.addEventListener('load', function() {
-    
-    // FIX MOBILE BUTTON CONTRAST
-    // Detect navbar background color and apply contrasting color to mobile buttons
-    const navbar = document.querySelector('.navbar, nav, header');
-    if (!navbar) {
-      console.log('[Navbar] Navbar element not found');
-      return;
-    }
-    
-    // DECLARE VARIABLES EARLY to avoid Temporal Dead Zone errors
-    // These are used in multiple places below
-    let mobileToggle = document.getElementById('mobileToggle') ||
-                       document.querySelector('.mobile-toggle') ||
-                       document.querySelector('.hamburger') ||
-                       document.querySelector('.hamburger-menu') ||
-                       document.querySelector('.menu-toggle') ||
-                       document.querySelector('.burger-menu') ||
-                       document.querySelector('[aria-label="Menu"]') ||
-                       document.querySelector('[aria-label="תפריט"]');
-    
-    const phoneBtn = document.querySelector('.phone-header-btn');
-    
-    const computedStyle = window.getComputedStyle(navbar);
-    let bgColor = computedStyle.backgroundColor;
-    
-    console.log('[Navbar] Initial navbar background:', bgColor);
-    
-    // Check if background is transparent or rgba with 0 alpha
-    const isTransparent = bgColor === 'transparent' || 
-                         bgColor === 'rgba(0, 0, 0, 0)' ||
-                         (bgColor.startsWith('rgba') && bgColor.includes(', 0)'));
-    
-    if (isTransparent) {
-      // Check for background-image or gradient
-      const bgImage = computedStyle.backgroundImage;
-      if (bgImage && bgImage !== 'none') {
-        console.log('[Navbar] Navbar has background image/gradient, using dark text');
-        bgColor = 'rgb(240, 240, 240)'; // Assume light background
-      } else {
-        // Transparent navbar - check body background
-        const bodyBg = window.getComputedStyle(document.body).backgroundColor;
-        console.log('[Navbar] Navbar transparent, using body background:', bodyBg);
-        bgColor = bodyBg;
-      }
-    }
-    
-    // Calculate luminance to determine if background is light or dark
-    const rgb = bgColor.match(/\d+/g);
-    if (rgb && rgb.length >= 3) {
-      const r = parseInt(rgb[0]);
-      const g = parseInt(rgb[1]);
-      const b = parseInt(rgb[2]);
-      const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
-      
-      // Mobile button colors are set by Claude's AI-generated CSS (same as .nav-menu a)
-      // No dynamic color overrides needed - colors come from the generated navbar CSS
-      console.log('[Navbar] Mobile button colors preserved from Claude CSS (luminance:', luminance.toFixed(2) + ')');
-      
-      // FIX ICON SIZES - Ensure SVGs are properly sized and visible
-      // INJECT CRITICAL CSS TO OVERRIDE ANY CONFLICTING RULES
-      const criticalCSS = document.createElement('style');
-      criticalCSS.id = 'zappy-mobile-nav-fix';
-      const htmlLang = document.documentElement.lang || 'en';
-      const htmlDir = document.documentElement.dir || 'ltr';
-      // Check both dir attribute AND lang for RTL detection
-      // dir="rtl" is the most reliable indicator
-      const isRTL = htmlDir === 'rtl' || htmlLang === 'he' || htmlLang === 'ar';
-      
-      criticalCSS.textContent = `
-        /* Hide mobile buttons on desktop, show only on mobile */
-        @media (min-width: 769px) {
-          .mobile-toggle,
-          .phone-header-btn {
-            display: none !important;
-          }
-        }
-        
-        /* Show and position mobile buttons correctly on mobile */
-        @media (max-width: 768px) {
-          .mobile-toggle,
-          .phone-header-btn {
-            position: absolute !important;
-            top: 0 !important;
-            bottom: 0 !important;
-            margin-top: auto !important;
-            margin-bottom: auto !important;
-            z-index: 1001 !important;
-            display: flex !important;
-            align-items: center !important;
-            justify-content: center !important;
-            width: 36px !important;
-            height: 36px !important;
-            border-radius: 50% !important;
-            border: none !important;
-            cursor: pointer !important;
-            padding: 6px !important;
-            background: none !important;
-            color: var(--nav-text, var(--text-light)) !important;
-            touch-action: manipulation !important;
-            -webkit-tap-highlight-color: transparent !important;
-          }
-          
-          /* LTR positioning (default): hamburger LEFT, phone RIGHT */
-          html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .mobile-toggle,
-          html[dir="ltr"] .mobile-toggle {
-            left: 12px !important;
-            right: auto !important;
-          }
-          html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .phone-header-btn,
-          html[dir="ltr"] .phone-header-btn {
-            right: 12px !important;
-            left: auto !important;
-          }
-          
-          /* RTL positioning: hamburger RIGHT, phone LEFT */
-          html[dir="rtl"] .mobile-toggle,
-          html[lang="he"] .mobile-toggle,
-          html[lang="ar"] .mobile-toggle {
-            right: 12px !important;
-            left: auto !important;
-          }
-          html[dir="rtl"] .phone-header-btn,
-          html[lang="he"] .phone-header-btn,
-          html[lang="ar"] .phone-header-btn {
-            left: 12px !important;
-            right: auto !important;
-          }
-          
-          /* CRITICAL: Ensure nav-container has min-height on mobile */
-          /* All children are positioned absolutely/fixed on mobile, so height:auto collapses to 0 */
-          .nav-container {
-            min-height: 70px !important;
-            position: relative !important;
-          }
-          
-          /* Ensure SVG icons are properly sized and inherit color */
-          .mobile-toggle svg,
-          .phone-header-btn svg {
-            width: 24px !important;
-            height: 24px !important;
-            /* Don't force display - let JavaScript control hamburger/close toggle */
-          }
-          
-          /* Reset nav-cta-container on mobile - remove desktop box-shadow/padding */
-          /* that creates a visible ghost box when CTA button is hidden */
-          .nav-cta-container {
-            box-shadow: none !important;
-            padding: 0 !important;
-          }
-          
-          /* Hide nav-cta-container entirely on mobile when there's no lang-switcher */
-          /* (only the CTA button is inside, and it's hidden on mobile) */
-          .nav-cta-container:not(:has(.lang-switcher)) {
-            display: none !important;
-          }
-          
-          /* CRITICAL: Prevent hero image fade gradient from bleeding over headline text */
-          /* The .image-fade-gradient has bottom: -30px (extends below parent) */
-          /* On mobile stacked layout, this overlaps the h1 text below the image */
-          .hero-image-column {
-            overflow: hidden !important;
-          }
-          .image-fade-gradient {
-            bottom: 0 !important;
-          }
-          
-          /* Hide desktop language switcher on mobile - hamburger menu handles it */
-          /* High specificity to override stored CSS */
-          .lang-switcher,
-          .nav-cta-container .lang-switcher,
-          .nav-container .lang-switcher,
-          .navbar .lang-switcher,
-          .navbar .nav-cta-container .lang-switcher {
-            display: none !important;
-          }
-        }
-      `;
-      
-      // Remove existing fix if present and inject new one
-      const existing = document.getElementById('zappy-mobile-nav-fix');
-      if (existing) existing.remove();
-      document.head.appendChild(criticalCSS);
-      
-      console.log('[Navbar] Critical CSS injected for mobile nav positioning');
-      
-      // ONLY apply inline positioning styles on mobile viewport
-      // On desktop, the CSS handles hiding these buttons with display: none
-      // Inline styles were breaking desktop layout by overriding CSS
-      const isMobileViewport = window.innerWidth <= 768;
-      
-      if (mobileToggle) {
-        // Icon sizing applies to all viewports for consistency
-        const hamburgerIcon = mobileToggle.querySelector('.hamburger-icon');
-        const closeIcon = mobileToggle.querySelector('.close-icon');
-        
-        if (hamburgerIcon) {
-          hamburgerIcon.style.setProperty('width', '24px', 'important');
-          hamburgerIcon.style.setProperty('height', '24px', 'important');
-          hamburgerIcon.style.setProperty('display', 'block', 'important'); // Show hamburger by default
-        }
-        if (closeIcon) {
-          closeIcon.style.setProperty('width', '24px', 'important');
-          closeIcon.style.setProperty('height', '24px', 'important');
-          closeIcon.style.setProperty('display', 'none', 'important'); // Hide close icon by default
-        }
-        
-        // ONLY set positioning inline styles on mobile
-        if (isMobileViewport) {
-          mobileToggle.style.setProperty('position', 'absolute', 'important');
-          mobileToggle.style.setProperty('top', '0', 'important');
-          mobileToggle.style.setProperty('bottom', '0', 'important');
-          mobileToggle.style.setProperty('margin-top', 'auto', 'important');
-          mobileToggle.style.setProperty('margin-bottom', 'auto', 'important');
-          mobileToggle.style.setProperty('z-index', '1001', 'important');
-          
-          // Clear any inline left/right so CSS can take over based on html[dir]
-          mobileToggle.style.removeProperty('left');
-          mobileToggle.style.removeProperty('right');
-          
-          console.log('[Navbar] Mobile toggle positioning applied (mobile viewport)');
-        } else {
-          // On desktop, clear any positioning styles to let CSS handle it
-          mobileToggle.style.removeProperty('position');
-          mobileToggle.style.removeProperty('top');
-          mobileToggle.style.removeProperty('transform');
-          mobileToggle.style.removeProperty('z-index');
-          mobileToggle.style.removeProperty('left');
-          mobileToggle.style.removeProperty('right');
-          console.log('[Navbar] Desktop viewport - cleared mobile toggle inline positioning');
-        }
-      }
-      
-      if (phoneBtn) {
-        // Icon sizing applies to all viewports
-        const phoneIcon = phoneBtn.querySelector('svg');
-        if (phoneIcon) {
-          phoneIcon.style.width = '24px';
-          phoneIcon.style.height = '24px';
-          phoneIcon.setAttribute('width', '24');
-          phoneIcon.setAttribute('height', '24');
-        }
-        
-        // ONLY set positioning inline styles on mobile
-        if (isMobileViewport) {
-          phoneBtn.style.setProperty('position', 'absolute', 'important');
-          phoneBtn.style.setProperty('top', '0', 'important');
-          phoneBtn.style.setProperty('bottom', '0', 'important');
-          phoneBtn.style.setProperty('margin-top', 'auto', 'important');
-          phoneBtn.style.setProperty('margin-bottom', 'auto', 'important');
-          phoneBtn.style.setProperty('z-index', '1001', 'important');
-          
-          // Clear any inline left/right so CSS can take over based on html[dir]
-          phoneBtn.style.removeProperty('left');
-          phoneBtn.style.removeProperty('right');
-          
-          console.log('[Navbar] Phone button positioning applied (mobile viewport)');
-        } else {
-          // On desktop, clear any positioning styles to let CSS handle it
-          phoneBtn.style.removeProperty('position');
-          phoneBtn.style.removeProperty('top');
-          phoneBtn.style.removeProperty('transform');
-          phoneBtn.style.removeProperty('z-index');
-          phoneBtn.style.removeProperty('left');
-          phoneBtn.style.removeProperty('right');
-          console.log('[Navbar] Desktop viewport - cleared phone button inline positioning');
-        }
-      }
-    } else {
-      console.log('[Navbar] Could not parse background color:', bgColor);
-    }
-    
-    // MOBILE MENU TOGGLE
-    // Re-query in case DOM changed (mobileToggle already declared at top of function)
-    mobileToggle = document.getElementById('mobileToggle') ||
-                   document.querySelector('.mobile-toggle') ||
-                   document.querySelector('.hamburger') ||
-                   document.querySelector('.hamburger-menu') ||
-                   document.querySelector('.menu-toggle') ||
-                   document.querySelector('.burger-menu') ||
-                   document.querySelector('[aria-label="Menu"]') ||
-                   document.querySelector('[aria-label="תפריט"]');
-    
-    // EXPANDED SEARCH: Find nav menu by ID or class
-    const navMenu = document.getElementById('navMenu') ||
-                  document.querySelector('.nav-menu') ||
-                  document.querySelector('.nav-links') ||
-                  document.querySelector('nav ul:not(.submenu)');
-    
-    if (!mobileToggle || !navMenu) {
-      console.log('[Navbar] Mobile toggle or menu not found:', { toggle: !!mobileToggle, menu: !!navMenu });
-      return;
-    }
-    
-    // Ensure navMenu has ID for CSS targeting
-    if (!navMenu.id) {
-      navMenu.id = 'navMenu';
-    }
-    
-    console.log('[Navbar] Initializing mobile menu...');
-    
-    // Remove any existing event listeners by cloning the button
-    const newToggle = mobileToggle.cloneNode(true);
-    mobileToggle.parentNode.replaceChild(newToggle, mobileToggle);
-    
-    // Toggle menu handler (shared by click and touchend)
-    function handleToggle(e) {
-      e.preventDefault();
-      e.stopPropagation();
-      
-      const hamburgerIcon = newToggle.querySelector('.hamburger-icon');
-      const closeIcon = newToggle.querySelector('.close-icon');
-      const isActive = navMenu.classList.contains('active');
-      
-      if (isActive) {
-        // Close menu
-        navMenu.classList.remove('active');
-        if (hamburgerIcon) hamburgerIcon.style.setProperty('display', 'block', 'important');
-        if (closeIcon) closeIcon.style.setProperty('display', 'none', 'important');
-        document.body.style.overflow = '';
-        console.log('[Navbar] Menu closed');
-      } else {
-        // Open menu
-        navMenu.classList.add('active');
-        if (hamburgerIcon) hamburgerIcon.style.setProperty('display', 'none', 'important');
-        if (closeIcon) closeIcon.style.setProperty('display', 'block', 'important');
-        document.body.style.overflow = 'hidden';
-        console.log('[Navbar] Menu opened');
-      }
-    }
-    
-    // Use click for desktop/emulation and touchend as iOS Safari fallback.
-    // Prevent double-fire with a timestamp guard.
-    var lastToggleTime = 0;
-    function guardedToggle(e) {
-      var now = Date.now();
-      if (now - lastToggleTime < 300) return;
-      lastToggleTime = now;
-      handleToggle(e);
-    }
-    
-    newToggle.addEventListener('click', guardedToggle);
-    newToggle.addEventListener('touchend', guardedToggle);
-    
-    // Close menu when clicking nav links (but NOT dropdown toggles)
-    const navLinks = navMenu.querySelectorAll('a');
-    navLinks.forEach(function(link) {
-      link.addEventListener('click', function() {
-        // Don't close if it's a dropdown child (unless it's a real navigation link)
-        if (this.getAttribute('href') === '#') return;
-        
-        const hamburgerIcon = newToggle.querySelector('.hamburger-icon');
-        const closeIcon = newToggle.querySelector('.close-icon');
-        
-        navMenu.classList.remove('active');
-        if (hamburgerIcon) hamburgerIcon.style.setProperty('display', 'block', 'important');
-        if (closeIcon) closeIcon.style.setProperty('display', 'none', 'important');
-        document.body.style.overflow = '';
-        console.log('[Navbar] Menu closed (link clicked)');
-      });
-    });
-    
-    // DROPDOWN MENU TOGGLE (for mobile and touch devices)
-    var dropdownToggles = navMenu.querySelectorAll('.dropdown-toggle');
-    dropdownToggles.forEach(function(toggle) {
-      toggle.addEventListener('click', function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-        var parent = this.closest('.nav-dropdown');
-        if (!parent) return;
-        
-        // Close other open dropdowns at the same level
-        var siblings = parent.parentNode.querySelectorAll('.nav-dropdown.open');
-        siblings.forEach(function(sib) {
-          if (sib !== parent) sib.classList.remove('open');
-        });
-        
-        parent.classList.toggle('open');
-        console.log('[Navbar] Dropdown toggled:', parent.classList.contains('open') ? 'open' : 'closed');
-      });
-    });
-    
-    // Close dropdowns when clicking outside
-    document.addEventListener('click', function(e) {
-      if (!e.target.closest('.nav-dropdown')) {
-        var openDropdowns = document.querySelectorAll('.nav-dropdown.open');
-        openDropdowns.forEach(function(dd) { dd.classList.remove('open'); });
-      }
-    });
-    
-    console.log('[Navbar] Dropdown handlers initialized for ' + dropdownToggles.length + ' dropdowns');
-    
-    // Phone button functionality (phoneBtn already declared at top of function)
-    if (phoneBtn) {
-      phoneBtn.addEventListener('click', function() {
-        // Get phone number from placeholder in page or use default
-        const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
-        const phoneNumber = phoneLinks.length > 0 
-          ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '[business_phone]';
-        
-        window.location.href = 'tel:' + phoneNumber;
-        console.log('[Navbar] Phone button clicked');
-      });
-    }
-    
-    console.log('[Navbar] Mobile menu initialized successfully');
-    
-    // WhatsApp button visibility is now controlled via CSS (siteSettings).
-    // No JS-based desktop hiding — the button is visible on both mobile and desktop by default.
-  });
-})();
-
-</script>
-  
-  <main>
-    <section class="product-intro-section" data-layout-spec="מוצר-intro" dir="rtl">
-  <!-- Mineral texture overlay -->
-  <div class="product-intro-texture" aria-hidden="true"></div>
-
-  <!-- Ambient glow decoration -->
-  <div class="product-intro-glow" aria-hidden="true"></div>
-
-  <!-- Content wrapper -->
-  <div class="product-intro-container">
-
-    <!-- Top label -->
-    <div class="product-intro-label" aria-hidden="true">
-      <span class="product-intro-label-line"></span>
-      <span class="product-intro-label-text">ANAEL — אנאל</span>
-      <span class="product-intro-label-line"></span>
-    </div>
-
-    <!-- Title area -->
-    <header class="product-intro-header">
-      <h1 class="product-intro-title">מתלה מגבות נסתר</h1>
-
-      <!-- Copper rule -->
-      <div class="product-intro-rule" aria-hidden="true"></div>
-
-      <p class="product-intro-description">
-        פתרון ייחודי ואלגנטי לחדר האמבטיה המודרני — מתלה מגבות מוסתר בקיר, המשלב פונקציונליות מקסימלית עם עיצוב אדריכלי מינימליסטי. ללא בלטות, ללא עומס חזותי. רק קו נקי, חלל מסודר, ותחושה של שלמות.
-      </p>
-    </header>
-
-    <!-- Product presentation frame -->
-    <figure class="product-intro-frame">
-      <!-- Corner accents -->
-      <span class="product-intro-corner product-intro-corner--tl" aria-hidden="true"></span>
-      <span class="product-intro-corner product-intro-corner--tr" aria-hidden="true"></span>
-      <span class="product-intro-corner product-intro-corner--bl" aria-hidden="true"></span>
-      <span class="product-intro-corner product-intro-corner--br" aria-hidden="true"></span>
-
-      <div class="product-intro-image-wrapper">
-        <img data-placeholder="product-intro-image-1" data-context="A sleek, museum-quality product render of a concealed towel bar integrated into a minimalist bathroom wall niche. The towel bar is hidden within a recessed panel or flush wall slot, showing a clean white or warm stone bathroom interior. Warm ambient lighting highlights the copper/bronze hardware detail. The mood is architectural, quiet, and premium — like a luxury hotel bathroom. Shot from a slightly elevated angle, centered composition, deep shadow details." width="1100" height="620" src="/assets/site-product-intro-image-1.webp" alt="מתלה מגבות נסתר משולב בנישת קיר בחדר אמבטיה מינימליסטי">
-      </div>
-
-      <figcaption class="product-intro-caption">
-        <span class="product-intro-caption-rule" aria-hidden="true"></span>
-        מתלה מגבות נסתר לאמבטיה — אנאל
-      </figcaption>
-    </figure>
-
-  </div>
-
-  <!-- Bottom copper divider -->
-  <div class="product-intro-divider-wrapper" aria-hidden="true">
-    <div class="product-intro-divider-line"></div>
-  </div>
-</section>
-
-<section class="product-specifications-section" data-layout-spec="מוצר-specifications" dir="rtl">
-  <div class="specs-container">
-    <!-- Content Column -->
-    <div class="specs-content-col">
-      <div class="specs-label-row">
-        <span class="specs-bronze-bar" aria-hidden="true"></span>
-        <span class="specs-label-text">מפרט טכני</span>
-      </div>
-      <h2 class="specs-heading">מידות, חומרים<br>ואינטגרציה</h2>
-      <p class="specs-intro">מתלה המגבות הנסתר מתוכנן בדיוק אדריכלי — כל פרט נבחר כדי להבטיח שילוב חלק בקיר, עמידות לטווח ארוך, ומראה מינימליסטי שאינו מתפשר על פונקציונליות.</p>
-
-      <div class="specs-divider-rule" aria-hidden="true"></div>
-
-      <ul class="specs-list">
-        <li class="spec-item">
-          <div class="spec-item-inner">
-            <span class="spec-category">עיצוב פרופיל</span>
-            <span class="spec-value">פרופיל שקוע לחלוטין בתוך הקיר — אפס בליטה חיצונית</span>
-          </div>
-        </li>
-        <li class="spec-item">
-          <div class="spec-item-inner">
-            <span class="spec-category">חומר גוף</span>
-            <span class="spec-value">נירוסטה 304 כבדה — עמידה בלחות ובאדים</span>
-          </div>
-        </li>
-        <li class="spec-item">
-          <div class="spec-item-inner">
-            <span class="spec-category">גימור משטח</span>
-            <span class="spec-value">מט מוברש / כרום מלוטש / שחור מט — שלוש אפשרויות גימור</span>
-          </div>
-        </li>
-        <li class="spec-item">
-          <div class="spec-item-inner">
-            <span class="spec-category">אינטגרציה בקיר</span>
-            <span class="spec-value">התקנה בין עמודי גבס או בבלוק בנייה — תואם לסטנדרט ישראלי</span>
-          </div>
-        </li>
-        <li class="spec-item">
-          <div class="spec-item-inner">
-            <span class="spec-category">עומק התקנה</span>
-            <span class="spec-value">60–80 מ"מ עומק קיר נדרש לשקיעה מלאה</span>
-          </div>
-        </li>
-        <li class="spec-item">
-          <div class="spec-item-inner">
-            <span class="spec-category">רוחב ואורך</span>
-            <span class="spec-value">600 מ"מ / 800 מ"מ / 1000 מ"מ — שלושה מידות סטנדרטיים</span>
-          </div>
-        </li>
-        <li class="spec-item">
-          <div class="spec-item-inner">
-            <span class="spec-category">הקשרי שימוש</span>
-            <span class="spec-value">אמבטיה ראשית, חדר רחצה אורחים, ספא פרטי, פרויקטים יוקרתיים</span>
-          </div>
-        </li>
-        <li class="spec-item">
-          <div class="spec-item-inner">
-            <span class="spec-category">תכנון התקנה</span>
-            <span class="spec-value">יש לתאם מיקום עם שלב השלד — לפני עבודות טיח וריצוף</span>
-          </div>
-        </li>
-      </ul>
-
-      <div class="specs-divider-rule" aria-hidden="true"></div>
-
-      <div class="specs-keyword-note">
-        <span>מתלה מגבות מוסתר בקיר</span> — פתרון אחסון אסתטי ללא פגיעה בנקיון הקיר.
-      </div>
-    </div>
-
-    <!-- Image Column -->
-    <div class="specs-image-col">
-      <div class="specs-image-frame">
-        <img data-placeholder="product-specifications-image-1" data-context="A hyper-realistic architectural detail photograph showing a concealed hidden towel bar flush-mounted inside a white plastered bathroom wall. The image shows a cross-section or installation detail: the stainless steel recessed niche integrated perfectly into the wall with a matte brushed finish. The surrounding wall is smooth white plaster with subtle mineral texture. The scene is lit with warm ambient bathroom lighting, casting soft shadows that reveal the depth of the recessed bar. The composition is clean, technical, and luxurious — like a page from an architectural specification booklet. No towels visible, focus is on the wall integration and material quality." width="600" height="760" src="/assets/site-product-specifications-image-1.webp" alt="פרט התקנה של מתלה מגבות נסתר בקיר אמבטיה">
-        <div class="specs-image-caption">
-          <span class="caption-line" aria-hidden="true"></span>
-          <span class="caption-text">פרט חיתוך — שקיעת הפרופיל בקיר</span>
+<nav class="zappy-catalog-menu rtl" id="zappy-catalog-menu" dir="rtl" style="display:none">
+      <div class="catalog-menu-container">
+        <a href="/products" class="catalog-menu-item catalog-menu-all">כל המוצרים</a>
+        <div class="catalog-menu-categories" id="zappy-category-links">
+          <!-- Categories will be loaded dynamically -->
         </div>
       </div>
-
-      <!-- Decorative corner accent -->
-      <div class="specs-corner-accent" aria-hidden="true">
-        <svg data-no-icon-edit="true" aria-hidden="true" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M48 0 L48 48 L0 48" stroke="rgba(196,132,90,0.45)" stroke-width="1" fill="none"></path>
-        </svg>
-      </div>
-    </div>
-  </div>
-
-  <!-- Bottom architectural stepped divider -->
-  <div class="specs-bottom-divider-wrapper">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,60 L0,30 L200,30 L200,15 L500,15 L500,30 L700,30 L700,8 L1000,8 L1000,30 L1200,30 L1200,60 Z" fill="#1A1714"></path>
-    </svg>
-  </div>
-</section>
-
-<section class="product-applications-section" data-layout-spec="מוצר-applications" dir="rtl">
-  <div class="product-applications-inner">
-    <div class="product-applications-header">
-      <h2 class="product-applications-title">סביבות שימוש</h2>
-      <div class="product-applications-rule" aria-hidden="true"></div>
-      <p class="product-applications-subtitle">מתלה המגבות הנסתר של anael מתאים למגוון סביבות פרימיום — מחדרי אמבטיה פרטיים ועד מרחבי תצוגה מוסדיים. בכל הקשר, הוא שומר על שקט ויזואלי מוחלט ועל תפקוד ללא פשרות.</p>
-    </div>
-
-    <div class="product-applications-grid">
-
-      <article class="product-applications-panel">
-        <div class="product-applications-img-wrap">
-          <img data-placeholder="product-applications-image-1" data-context="Luxury private bathroom interior with warm stone walls, integrated hidden towel bar flush with the wall surface, soft ambient lighting, minimalist design, premium sanitary ware, copper accent fixtures, subdued warm tones" width="600" height="400" src="/assets/site-product-applications-image-1.webp" alt="חדר אמבטיה פרטי יוקרתי עם מתלה מגבות נסתר">
-          <div class="product-applications-img-overlay" aria-hidden="true"></div>
-        </div>
-        <div class="product-applications-panel-body">
-          <div class="product-applications-accent-bar" aria-hidden="true"></div>
-          <h3 class="product-applications-panel-title">חדר אמבטיה פרטי</h3>
-          <p class="product-applications-panel-text">עבור הבית הפרטי המודרני, מתלה המגבות הנסתר מוסתר בקיר ומשתלב בחלקה בחיפוי — ללא בליטות, ללא רעש חזותי. הפתרון המושלם לאמבטיה מינימליסטית שמדברת בשקט.</p>
-        </div>
-      </article>
-
-      <article class="product-applications-panel">
-        <div class="product-applications-img-wrap">
-          <img data-placeholder="product-applications-image-2" data-context="Boutique residential renovation bathroom, architect-designed space, concealed recessed towel holder in marble wall, warm copper tones, high-end interior design, clean lines, premium finish materials" width="600" height="400" src="/assets/site-product-applications-image-2.webp" alt="פרויקט מגורים בוטיק עם מתלה מגבות מוסתר בקיר">
-          <div class="product-applications-img-overlay" aria-hidden="true"></div>
-        </div>
-        <div class="product-applications-panel-body">
-          <div class="product-applications-accent-bar" aria-hidden="true"></div>
-          <h3 class="product-applications-panel-title">שיפוץ ועיצוב בוטיק</h3>
-          <p class="product-applications-panel-text">בפרויקטי שיפוץ יוקרתיים ועיצוב פנים ייחודי, המוצר מוטמע עוד בשלב הבנייה — כחלק בלתי נפרד מהקיר. אדריכלים ומעצבים בוחרים בו כאשר הפרטים קובעים את רמת הגמר.</p>
-        </div>
-      </article>
-
-      <article class="product-applications-panel">
-        <div class="product-applications-img-wrap">
-          <img data-placeholder="product-applications-image-3" data-context="Upscale bathroom showroom display, professional interior exhibition space, hidden towel bar product on display in a curated wall installation, warm lighting, copper and stone materials, minimalist product showcase" width="600" height="400" src="/assets/site-product-applications-image-3.webp" alt="תצוגת מוצר בחנות אביזרי אמבטיה יוקרתית">
-          <div class="product-applications-img-overlay" aria-hidden="true"></div>
-        </div>
-        <div class="product-applications-panel-body">
-          <div class="product-applications-accent-bar" aria-hidden="true"></div>
-          <h3 class="product-applications-panel-title">מרחב תצוגה מקצועי</h3>
-          <p class="product-applications-panel-text">בחנויות ויצרני כלים סניטרים, מתלה המגבות הנסתר לאמבטיה מוצג כאלמנט עיצובי עצמאי — ראיה לכך שחדשנות ואסתטיקה יכולות להתקיים יחד. ההיעלמות בקיר היא עצמה ההצהרה.</p>
-        </div>
-      </article>
-
-    </div>
-  </div>
-
-  <div class="product-applications-divider-wrapper" aria-hidden="true">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,80 L0,48 Q100,38 200,50 T400,44 Q500,52 600,42 T800,48 Q900,36 1000,50 T1200,44 L1200,80 Z" fill="var(--bg-light)"></path>
-    </svg>
-  </div>
-</section>
-
-<section class="product-process-section" data-layout-spec="מוצר-process" dir="rtl">
-  <div class="product-process-container">
-
-    <header class="product-process-header">
-      <h2 class="product-process-title">תהליך ההתקנה</h2>
-      <div class="product-process-rule" aria-hidden="true"></div>
-      <p class="product-process-intro">מתלה המגבות הנסתר שלנו מתוכנן להשתלב בצורה מושלמת בקיר האמבטיה — תהליך מסודר, מדויק, ותוצאה שאינה נראית לעין.</p>
-    </header>
-
-    <div class="product-process-steps">
-
-      <article class="product-process-step">
-        <div class="product-process-numeral" aria-hidden="true">01</div>
-        <div class="product-process-step-content">
-          <h3 class="product-process-step-title">תכנון הקיר</h3>
-          <p class="product-process-step-desc">בוחרים את מיקום ההתקנה בהתאם לגובה הרצוי, לחומר הקיר ולמיקום הצינורות. שלב זה מבטיח שהתוצאה הסופית תהיה מדויקת ונקייה.</p>
-        </div>
-      </article>
-
-      <div class="product-process-connector" aria-hidden="true"></div>
-
-      <article class="product-process-step">
-        <div class="product-process-numeral" aria-hidden="true">02</div>
-        <div class="product-process-step-content">
-          <h3 class="product-process-step-title">תיאום מידות</h3>
-          <p class="product-process-step-desc">מודדים את עומק הנישה הנדרש ומסמנים את גבולות החריצה בדיוק מלא. כל מילימטר חשוב כדי שהמנגנון הנסתר ישתלב ללא פגם.</p>
-        </div>
-      </article>
-
-      <div class="product-process-connector" aria-hidden="true"></div>
-
-      <article class="product-process-step">
-        <div class="product-process-numeral" aria-hidden="true">03</div>
-        <div class="product-process-step-content">
-          <h3 class="product-process-step-title">שילוב המנגנון</h3>
-          <p class="product-process-step-desc">המתלה הנסתר מוטמע בתוך הקיר ומחובר בצורה יציבה. הגישה הנסתרת מבטיחה שאף אלמנט לא יבלוט מחוץ לקו המישור.</p>
-        </div>
-      </article>
-
-      <div class="product-process-connector" aria-hidden="true"></div>
-
-      <article class="product-process-step">
-        <div class="product-process-numeral" aria-hidden="true">04</div>
-        <div class="product-process-step-content">
-          <h3 class="product-process-step-title">גימור נקי</h3>
-          <p class="product-process-step-desc">לאחר ההטמעה, הקיר מושלם מחדש לגימור חלק ואחיד. התוצאה — אמבטיה מינימליסטית, ללא עומס ויזואלי, עם פונקציונליות מלאה.</p>
-        </div>
-      </article>
-
-    </div>
-  </div>
-</section>
+    </nav>
+  <main class="page-container ecommerce-page">
+    
+        <section class="product-detail-section" id="product-detail">
+          <div class="product-detail-loading">
+            <div class="loading-spinner"></div>
+            <p>טוען מוצרים...</p>
+          </div>
+        </section>
+        <section class="related-products-section" style="display:none;" id="related-products-section">
+          <h2 data-i18n="ecom_relatedProducts">מוצרים דומים</h2>
+          <div class="product-grid" id="related-products-grid"></div>
+        </section>
+      
   </main>
-  
   <footer class="site-footer" dir="rtl">
   <div class="footer-inner">
     <div class="footer-top">
@@ -1113,7 +490,10 @@
       <div class="footer-legal">
         <a href="/privacy">מדיניות פרטיות</a>
         <span class="footer-sep">|</span>
-        <a href="/terms">תנאי שימוש</a>
+        <a href="/terms">תנאי שימוש</a><span class="separator">|</span>
+            <a href="/return-policy" aria-label="מדיניות החזרות">
+              מדיניות החזרות
+            </a>
         <span class="footer-sep">|</span>
         <a href="/accessibility">נגישות</a>
         <span class="footer-sep">|</span>
@@ -1124,11 +504,85 @@
   </div>
 </footer>
   
-  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" aria-label="WhatsApp">
-    <i class="fab fa-whatsapp"></i>
-  </a>
-  
-  <div data-integration="accessibility:toolbar"></div>
+  <script>
+  <!-- Search handling for e-commerce pages -->
+  (function() {
+    // Unified search function that works in both preview and deployed modes
+    function performSearch(query) {
+      if (query.length < 2) return;
+      
+      // Check if we're in preview mode (URL contains preview-fullscreen)
+      var isPreview = window.location.pathname.includes('preview-fullscreen');
+      
+      if (isPreview) {
+        // In preview mode, update the page parameter and add search
+        var url = new URL(window.location.href);
+        url.searchParams.set('page', '/products');
+        url.searchParams.set('search', query);
+        window.location.href = url.toString();
+      } else {
+        // In deployed mode, navigate to products with search
+        window.location.href = '/products?search=' + encodeURIComponent(query);
+      }
+    }
+    
+    // Handle navbar search input
+    var navSearchInput = document.querySelector('.nav-search-input');
+    if (navSearchInput) {
+      navSearchInput.addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          performSearch(this.value.trim());
+        }
+      });
+    }
+    
+    // Handle mobile search panel
+    var mobileSearchInput = document.getElementById('mobile-search-input');
+    var mobileSearchPanel = document.getElementById('mobile-search-panel');
+    var closeMobileSearch = document.getElementById('close-mobile-search');
+    var searchToggle = document.querySelector('.nav-search-toggle');
+    
+    // Open mobile search panel
+    if (searchToggle && mobileSearchPanel) {
+      searchToggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        mobileSearchPanel.classList.add('active');
+        if (mobileSearchInput) {
+          setTimeout(function() { mobileSearchInput.focus(); }, 100);
+        }
+      });
+    }
+    
+    // Close mobile search panel
+    if (closeMobileSearch && mobileSearchPanel) {
+      closeMobileSearch.addEventListener('click', function() {
+        mobileSearchPanel.classList.remove('active');
+        if (mobileSearchInput) mobileSearchInput.value = '';
+      });
+    }
+    
+    // Handle Enter key on mobile search
+    if (mobileSearchInput) {
+      mobileSearchInput.addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          performSearch(this.value.trim());
+        }
+      });
+    }
+    
+    // Handle search query from URL on load
+    var urlParams = new URLSearchParams(window.location.search);
+    var searchQuery = urlParams.get('search');
+    if (searchQuery) {
+      if (navSearchInput) navSearchInput.value = searchQuery;
+      if (mobileSearchInput) mobileSearchInput.value = searchQuery;
+      console.log('[E-COMMERCE] Search query from URL:', searchQuery);
+    }
+  })();
+  </script>
 
     <script src="/script.js"></script>
 

@@ -1,5 +1,5 @@
 # Render static site routing configuration
-# Generated: 2026-05-07T10:17:33.927Z
+# Generated: 2026-05-11T13:03:17.191Z
 # This file configures URL rewrite rules for SPA routing
 
 # Routes are applied when no static file exists at the requested path
@@ -7,5 +7,8 @@
 
 routes:
   - type: rewrite
-    source: /*
-    destination: /index.html
+    source: /product/*
+    destination: /product.html
+  - type: rewrite
+    source: /category/*
+    destination: /category.html

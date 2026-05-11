@@ -22,6 +22,18 @@ anael נולדה מתוך חזון לשנות את האופן שבו אנחנו 
 https://example.com/contact
 יש לך שאלה על מתלה המגבות הנסתר לאמבטיה או רוצה לשמוע עוד על הפתרונות שלנו? צוות anael כאן בשבילך — צור קשר עכשיו ונחזור אליך בהקדם האפשרי.
 
+### Products
+https://example.com/products
+המוצרים שלנו - anael
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - anael
+
+### Category
+https://example.com/category/:slug
+מוצרים - anael
+
 ## Legal & Policy
 
 ### Privacy Policy
@@ -38,21 +50,9 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-## How to Contact Us
+## Products
 
-- (No contact details configured yet.)
-
-### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
-- Method: POST
-- Content-Type: application/json
-- Fields:
-  - `name` (text, required)
-  - `email` (email, required)
-  - `phone` (tel)
-  - `message` (textarea, required)
-  - `privacy_consent` (checkbox, required)
+_No products are currently configured._
 
 ---
 
@@ -79,3 +79,5 @@ A sanitary ware brand specializing in a hidden towel bar — a sleek, concealed 
 - Sitemap (XML): https://example.com/sitemap.xml
 - Robots: https://example.com/robots.txt
 - Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
