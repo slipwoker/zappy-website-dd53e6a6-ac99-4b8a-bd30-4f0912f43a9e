@@ -2,13 +2,13 @@
 
 A sanitary ware brand specializing in a hidden towel bar — a sleek, concealed bathroom accessory that combines functionality with minimalist design. The product is designed to keep bathrooms clean and uncluttered, appealing to modern interior aesthetics. The brand focuses on innovative, space-saving solutions for contemporary bathrooms.
 
-Source: https://example.com
+Source: https://anael.zappy5.app
 
 ---
 
 ## מתלה מגבות נסתר — anael
 
-URL: https://example.com
+URL: https://anael.zappy5.app
 Description: מתלה מגבות נסתר שמשנה את פני האמבטיה שלך לתמיד. עיצוב מינימליסטי, פתרון חכם לחלל, ואלגנטיות שמסתתרת בקיר. הכנס לעולם של anael וגלה כיצד.
 
 מתלה מגבות נסתר — anael
@@ -467,7 +467,7 @@ Description: מתלה מגבות נסתר שמשנה את פני האמבטיה 
 
 ## המוצר שהאמבטיה שלך חיכתה לו — anael
 
-URL: https://example.com/product
+URL: https://anael.zappy5.app/product
 Description: מתלה מגבות מוסתר בקיר בעיצוב חדשני שמשלב פונקציונליות עם אסתטיקה נקייה. ראה את כל הפרטים, המידות והחומרים שהופכים את המוצר הזה לחובה בכל אמבטיה מודרנית.
 
 המוצר שהאמבטיה שלך חיכתה לו — anael
@@ -927,7 +927,7 @@ ANAEL — אנאל
 
 ## הסיפור מאחורי הנסתר — anael
 
-URL: https://example.com/about
+URL: https://anael.zappy5.app/about
 Description: anael נולדה מתוך חזון לשנות את האופן שבו אנחנו חושבים על אמבטיה. גלה את הפילוסופיה, הערכים והאנשים שמאחורי מתלה המגבות הנסתר שכבש את לב המעצבים.
 
 הסיפור מאחורי הנסתר — anael
@@ -1383,7 +1383,7 @@ III
 
 ## בואו נעצב את האמבטיה שלך ביחד — anael
 
-URL: https://example.com/contact
+URL: https://anael.zappy5.app/contact
 Description: יש לך שאלה על מתלה המגבות הנסתר לאמבטיה או רוצה לשמוע עוד על הפתרונות שלנו? צוות anael כאן בשבילך — צור קשר עכשיו ונחזור אליך בהקדם האפשרי.
 
 בואו נעצב את האמבטיה שלך ביחד — anael
@@ -1761,7 +1761,7 @@ Description: יש לך שאלה על מתלה המגבות הנסתר לאמבט
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://anael.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2066,7 +2066,7 @@ anael ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://anael.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2380,7 +2380,7 @@ anael מחויבת להנגיש את השירותים לכלל הציבור. א�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://anael.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2713,7 +2713,7 @@ anael מספקת כלים סניטרים ואביזרי אמבטיה דרך הא
 
 ## מוצרים
 
-URL: https://example.com/products
+URL: https://anael.zappy5.app/products
 Description: המוצרים שלנו - anael
 
 מוצרים - anael
@@ -2948,7 +2948,7 @@ Description: המוצרים שלנו - anael
 
 ## פרטי המוצר
 
-URL: https://example.com/product/:slug
+URL: https://anael.zappy5.app/product/:slug
 Description: פרטי המוצר - anael
 
 פרטי המוצר - anael
@@ -3161,7 +3161,7 @@ Description: פרטי המוצר - anael
 
 ## מוצרים
 
-URL: https://example.com/category/:slug
+URL: https://anael.zappy5.app/category/:slug
 Description: מוצרים - anael
 
 מוצרים - anael

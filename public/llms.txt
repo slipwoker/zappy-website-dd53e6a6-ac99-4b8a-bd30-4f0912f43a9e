@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://example.com
+https://anael.zappy5.app
 מתלה מגבות נסתר שמשנה את פני האמבטיה שלך לתמיד. עיצוב מינימליסטי, פתרון חכם לחלל, ואלגנטיות שמסתתרת בקיר. הכנס לעולם של anael וגלה כיצד.
 
 ### מוצר
-https://example.com/product
+https://anael.zappy5.app/product
 מתלה מגבות מוסתר בקיר בעיצוב חדשני שמשלב פונקציונליות עם אסתטיקה נקייה. ראה את כל הפרטים, המידות והחומרים שהופכים את המוצר הזה לחובה בכל אמבטיה מודרנית.
 
 ### אודות
-https://example.com/about
+https://anael.zappy5.app/about
 anael נולדה מתוך חזון לשנות את האופן שבו אנחנו חושבים על אמבטיה. גלה את הפילוסופיה, הערכים והאנשים שמאחורי מתלה המגבות הנסתר שכבש את לב המעצבים.
 
 ### צור קשר
-https://example.com/contact
+https://anael.zappy5.app/contact
 יש לך שאלה על מתלה המגבות הנסתר לאמבטיה או רוצה לשמוע עוד על הפתרונות שלנו? צוות anael כאן בשבילך — צור קשר עכשיו ונחזור אליך בהקדם האפשרי.
 
 ### Products
-https://example.com/products
+https://anael.zappy5.app/products
 המוצרים שלנו - anael
 
 ### Product Detail
-https://example.com/product/:slug
+https://anael.zappy5.app/product/:slug
 פרטי המוצר - anael
 
 ### Category
-https://example.com/category/:slug
+https://anael.zappy5.app/category/:slug
 מוצרים - anael
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://anael.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://anael.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://anael.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -76,8 +76,8 @@ A sanitary ware brand specializing in a hidden towel bar — a sleek, concealed 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://anael.zappy5.app/sitemap.xml
+- Robots: https://anael.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://anael.zappy5.app/llms-full.txt
+- Products (JSON): https://anael.zappy5.app/products.json
+- Products (Google Merchant RSS): https://anael.zappy5.app/product-feed.xml
