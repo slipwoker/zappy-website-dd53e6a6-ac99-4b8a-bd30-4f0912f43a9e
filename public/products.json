@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-24T17:57:06.811Z",
+  "generated_at": "2026-05-24T17:58:18.196Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 2,
@@ -29,11 +29,11 @@
     },
     {
       "id": "02234a5d-732f-4ad8-82d4-bb019b68aa13",
-      "slug": "mtlh-mgbvt-nstr-3-ychydvt-z0uraf",
-      "name": "מתלה מגבות נסתר 3 יחידות",
+      "slug": "mtlh-mgbvt-nstr-5-ychydvt-oolh6j",
+      "name": "מתלה מגבות נסתר 5 יחידות",
       "name_translations": {},
       "description": "",
-      "short_description": "מתלי מגבות נסתרים 3 יחידות מבית ANAEL – המראה הנקי והיוקרתי שחדר הרחצה שלך צריך!\n\nשדרגו את חדר הרחצה או המטבח עם סט של 3 מתלים בעיצוב מינימליסטי ומודרני, המעניקים מראה \"צף\" ונקי ללא ברגים גלויים לעין. המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.\n\nמקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!",
+      "short_description": "מתלי מגבות נסתרים 5 יחידות מבית ANAEL – המראה הנקי והיוקרתי שחדר הרחצה שלך צריך!\n\nשדרגו את חדר הרחצה או המטבח עם סט של 3 מתלים בעיצוב מינימליסטי ומודרני, המעניקים מראה \"צף\" ונקי ללא ברגים גלויים לעין. המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.\n\nמקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!",
       "sku": null,
       "brand": "ANAEL",
       "price": 590,
@@ -41,13 +41,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://anael-pro.co.il/assets/image-product-image-1779644776172-xncxxa.webp"
+        "https://anael-pro.co.il/assets/image-product-image-1779645451099-3kjcj2.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-z0uraf",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-oolh6j",
       "categories": [],
-      "updated_at": "2026-05-24T17:50:45.867Z"
+      "updated_at": "2026-05-24T17:57:46.923Z"
     }
   ]
 }
