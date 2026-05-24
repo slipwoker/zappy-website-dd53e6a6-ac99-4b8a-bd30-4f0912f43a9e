@@ -412,11 +412,11 @@ Description: מתלה מגבות נסתר שמשנה את פני האמבטיה 
 #### צור קשר
 
 
-- [business_email]
+- Anael-minimal@gmail.com
 
 - +972544421387
 
-- [business_address]
+- ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -876,11 +876,11 @@ ANAEL — אנאל
 #### צור קשר
 
 
-- [business_email]
+- Anael-minimal@gmail.com
 
 - +972544421387
 
-- [business_address]
+- ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -1344,11 +1344,11 @@ III
 #### צור קשר
 
 
-- [business_email]
+- Anael-minimal@gmail.com
 
 - +972544421387
 
-- [business_address]
+- ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -1663,7 +1663,7 @@ Description: יש לך שאלה על מתלה המגבות הנסתר לאמבט
 ### דוא״ל
 
 
-[business_email]
+Anael-minimal@gmail.com
 
 
 נחזור אליכם תוך יום עסקים אחד
@@ -1678,7 +1678,7 @@ Description: יש לך שאלה על מתלה המגבות הנסתר לאמבט
 ### כתובת
 
 
-[business_address]
+ירושלים 129, ראשון לציון, ישראל
 
 
 הצג במפה ←
@@ -1737,11 +1737,11 @@ Description: יש לך שאלה על מתלה המגבות הנסתר לאמבט
 #### צור קשר
 
 
-- [business_email]
+- Anael-minimal@gmail.com
 
 - +972544421387
 
-- [business_address]
+- ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -2014,11 +2014,11 @@ anael ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו
 
 - חברה: anael
 
-- אימייל: [business_email]
+- אימייל: Anael-minimal@gmail.com
 
 - טלפון: +972544421387
 
-- כתובת: [business_address]
+- כתובת: ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -2072,11 +2072,11 @@ anael ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו
 #### צור קשר
 
 
-- [business_email]
+- Anael-minimal@gmail.com
 
 - +972544421387
 
-- [business_address]
+- ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -2327,7 +2327,7 @@ anael מחויבת להנגיש את השירותים לכלל הציבור. א�
 
 - חברה: anael
 
-- אימייל: [business_email]
+- אימייל: Anael-minimal@gmail.com
 
 - טלפון: +972544421387
 
@@ -2386,11 +2386,11 @@ anael מחויבת להנגיש את השירותים לכלל הציבור. א�
 #### צור קשר
 
 
-- [business_email]
+- Anael-minimal@gmail.com
 
 - +972544421387
 
-- [business_address]
+- ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -2664,11 +2664,11 @@ anael מספקת כלים סניטרים ואביזרי אמבטיה דרך הא
 
 - חברה: anael
 
-- אימייל: [business_email]
+- אימייל: Anael-minimal@gmail.com
 
 - טלפון: +972544421387
 
-- כתובת: [business_address]
+- כתובת: ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -2719,11 +2719,11 @@ anael מספקת כלים סניטרים ואביזרי אמבטיה דרך הא
 #### צור קשר
 
 
-- [business_email]
+- Anael-minimal@gmail.com
 
 - +972544421387
 
-- [business_address]
+- ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -2954,11 +2954,11 @@ Description: המוצרים שלנו - anael
 #### צור קשר
 
 
-- [business_email]
+- Anael-minimal@gmail.com
 
 - +972544421387
 
-- [business_address]
+- ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -3197,11 +3197,11 @@ Description: פרטי המוצר - anael
 #### צור קשר
 
 
-- [business_email]
+- Anael-minimal@gmail.com
 
 - +972544421387
 
-- [business_address]
+- ירושלים 129, ראשון לציון, ישראל
 
 
 
@@ -3464,11 +3464,11 @@ Description: מוצרים - anael
 #### צור קשר
 
 
-- [business_email]
+- Anael-minimal@gmail.com
 
 - +972544421387
 
-- [business_address]
+- ירושלים 129, ראשון לציון, ישראל
 
 
 
