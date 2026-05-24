@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-24T18:03:26.989Z",
+  "generated_at": "2026-05-24T18:04:25.194Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 3,
@@ -25,12 +25,12 @@
       "stock_status": "in_stock",
       "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-copy-copy-jp7gqj",
       "categories": [],
-      "updated_at": "2026-05-24T18:03:21.172Z"
+      "updated_at": "2026-05-24T18:04:16.212Z"
     },
     {
       "id": "afd03626-52b8-43f5-a517-4d75cbb944b8",
-      "slug": "mtlh-mgbvt-nstr-3-ychydvt-copy-7n9m8c",
-      "name": "מתלה מגבות נסתר 3 יחידות (Copy)",
+      "slug": "mtlh-mgbvt-nstr-3-ychydvt-tsba-ksvp-vydi3s",
+      "name": "מתלה מגבות נסתר 3 יחידות צבע כסוף",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -45,9 +45,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-copy-7n9m8c",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-ksvp-vydi3s",
       "categories": [],
-      "updated_at": "2026-05-24T18:02:56.198Z"
+      "updated_at": "2026-05-24T18:03:54.121Z"
     },
     {
       "id": "02234a5d-732f-4ad8-82d4-bb019b68aa13",
