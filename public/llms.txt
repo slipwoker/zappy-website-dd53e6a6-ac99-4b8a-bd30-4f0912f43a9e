@@ -34,6 +34,26 @@ https://anael-pro.co.il/product/:slug
 https://anael-pro.co.il/category/:slug
 מוצרים - anael
 
+### Cart
+https://anael-pro.co.il/cart
+עגלת הקניות שלך
+
+### Checkout
+https://anael-pro.co.il/checkout
+תשלום
+
+### Login
+https://anael-pro.co.il/login
+התחברות לקוחות
+
+### Account
+https://anael-pro.co.il/account
+החשבון שלי
+
+### Order Success
+https://anael-pro.co.il/order-success
+תודה על ההזמנה
+
 ## Legal & Policy
 
 ### Privacy Policy
@@ -52,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### מתלה מגבות נסתר 3 יחידות
+https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-zu1zlc
+- Price: 590.00 ILS
+- Availability: In stock
+- Brand: ANAEL
+- Description: מתלי מגבות נסתרים 3 יחידות מבית ANAEL – המראה הנקי והיוקרתי שחדר הרחצה שלך צריך! שדרגו את חדר הרחצה או המטבח עם סט של 3 מתלים בעיצוב מינימליסטי ומודרני, המעניקים מראה "צף" ונקי ללא ברגים גלויים לעין. המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים. מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!
+- Image: https://anael-pro.co.il/assets/image-product-image-1779644776172-xncxxa.webp
 
 ---
 
