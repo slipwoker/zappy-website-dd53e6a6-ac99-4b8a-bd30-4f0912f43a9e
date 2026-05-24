@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-24T18:04:25.194Z",
+  "generated_at": "2026-05-24T18:05:06.090Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
-  "count": 3,
+  "count": 4,
   "products": [
     {
-      "id": "8c3cd2f3-e1e6-49e7-8ea5-0fc3f107ceb7",
-      "slug": "mtlh-mgbvt-nstr-3-ychydvt-copy-copy-jp7gqj",
-      "name": "מתלה מגבות נסתר 3 יחידות (Copy) (Copy)",
+      "id": "8e4d9d99-3492-4cfa-be0c-8f4660aa7fac",
+      "slug": "mtlh-mgbvt-nstr-3-ychydvt-tsba-shchvr-copy-kkh31i",
+      "name": "מתלה מגבות נסתר 3 יחידות צבע שחור (Copy)",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -23,9 +23,31 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-copy-copy-jp7gqj",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-shchvr-copy-kkh31i",
       "categories": [],
-      "updated_at": "2026-05-24T18:04:16.212Z"
+      "updated_at": "2026-05-24T18:04:45.779Z"
+    },
+    {
+      "id": "8c3cd2f3-e1e6-49e7-8ea5-0fc3f107ceb7",
+      "slug": "mtlh-mgbvt-nstr-3-ychydvt-tsba-shchvr-yopewb",
+      "name": "מתלה מגבות נסתר 3 יחידות צבע שחור",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "ANAEL",
+      "price": 590,
+      "base_price": 590,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://anael-pro.co.il/assets/image-product-image-1779644776172-xncxxa.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-shchvr-yopewb",
+      "categories": [],
+      "updated_at": "2026-05-24T18:04:35.159Z"
     },
     {
       "id": "afd03626-52b8-43f5-a517-4d75cbb944b8",
