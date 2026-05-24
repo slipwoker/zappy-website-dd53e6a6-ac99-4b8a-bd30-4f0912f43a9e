@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-24T17:51:16.919Z",
+  "generated_at": "2026-05-24T17:53:07.642Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
-  "count": 1,
+  "count": 2,
   "products": [
+    {
+      "id": "afd03626-52b8-43f5-a517-4d75cbb944b8",
+      "slug": "mtlh-mgbvt-nstr-3-ychydvt-copy-13otq2",
+      "name": "מתלה מגבות נסתר 3 יחידות (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "ANAEL",
+      "price": 590,
+      "base_price": 590,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://anael-pro.co.il/assets/image-product-image-1779644776172-xncxxa.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-copy-13otq2",
+      "categories": [],
+      "updated_at": "2026-05-24T17:52:36.305Z"
+    },
     {
       "id": "02234a5d-732f-4ad8-82d4-bb019b68aa13",
       "slug": "mtlh-mgbvt-nstr-3-ychydvt-z0uraf",
