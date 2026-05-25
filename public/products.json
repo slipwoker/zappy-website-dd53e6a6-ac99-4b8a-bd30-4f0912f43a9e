@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-25T11:02:42.971Z",
+  "generated_at": "2026-05-25T11:03:48.480Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 7,
@@ -139,8 +139,8 @@
     },
     {
       "id": "bed7d363-8e7e-4ad6-81fd-c3251c9f4377",
-      "slug": "mtlh-mgbvt-nstr-5-ychydvt-tsba-alvmynyvm-tbay-copy-inidzf",
-      "name": "מתלה מגבות נסתר 5 יחידות צבע אלומיניום טבעי (Copy)",
+      "slug": "mtlh-mgbvt-nstr-5-ychydvt-tsba-rvz-gvld-3nhw2c",
+      "name": "מתלה מגבות נסתר 5 יחידות צבע רוז גולד",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -155,9 +155,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-alvmynyvm-tbay-copy-inidzf",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-rvz-gvld-3nhw2c",
       "categories": [],
-      "updated_at": "2026-05-25T11:02:25.298Z"
+      "updated_at": "2026-05-25T11:03:47.877Z"
     }
   ]
 }
