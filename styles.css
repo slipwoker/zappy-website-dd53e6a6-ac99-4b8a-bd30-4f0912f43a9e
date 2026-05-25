@@ -12308,6 +12308,59 @@ nav.navbar .sub-menu li a {
 .index-hero-section .index-hero-rule-bottom {
   display: none !important;
 }
+
+.products-section {
+  background-color: #EDEAE4 !important;
+}
+
+.products-section h1,
+.products-section h2,
+.products-section h3,
+.products-section p,
+.products-section span,
+.products-section a,
+.products-section label,
+.products-section select,
+.products-section button {
+  color: #111111 !important;
+}
+
+.products-section h1 {
+  color: #111111 !important;
+}
+
+.product-detail-section {
+  background-color: #EDEAE4 !important;
+}
+
+.related-products-section {
+  background-color: #EDEAE4 !important;
+}
+
+.product-detail-section h1,
+.product-detail-section h2,
+.product-detail-section h3,
+.product-detail-section p,
+.product-detail-section span,
+.product-detail-section a,
+.product-detail-section label {
+  color: #111111 !important;
+}
+
+.related-products-section h2,
+.related-products-section h3,
+.related-products-section p,
+.related-products-section span {
+  color: #111111 !important;
+}
+
+.product-detail-section h1 {
+  color: #111111 !important;
+}
+
+.related-products-section h2 {
+  color: #111111 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
