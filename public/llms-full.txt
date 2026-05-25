@@ -4627,7 +4627,7 @@ anael מחויבת לשביעות רצון לקוחותיה. מדיניות זו
 ## Product Catalog
 
 ### מתלה מגבות נסתר 3 יחידות צבע אלומניום טבעי
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-alvmnyvm-tbay-zynx5i
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-alvmnyvm-tbay-9evg6u
 Price: 590.00 ILS
 Availability: In stock
 Brand: ANAEL
@@ -4635,7 +4635,7 @@ Brand: ANAEL
 ---
 
 ### מתלה מגבות נסתר 3 יחידות צבע רוז גולד
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-rvz-gvld-15vgf8
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-rvz-gvld-qo5ptl
 Price: 590.00 ILS
 Availability: In stock
 Brand: ANAEL
@@ -4643,7 +4643,7 @@ Brand: ANAEL
 ---
 
 ### מתלה מגבות נסתר 3 יחידות צבע זהב
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-zhb-alao4j
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-zhb-q594sy
 Price: 590.00 ILS
 Availability: In stock
 Brand: ANAEL
@@ -4651,7 +4651,7 @@ Brand: ANAEL
 ---
 
 ### מתלה מגבות נסתר 3 יחידות צבע שחור
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-shchvr-jyg0u4
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-shchvr-hylgsu
 Price: 590.00 ILS
 Availability: In stock
 Brand: ANAEL
@@ -4659,7 +4659,7 @@ Brand: ANAEL
 ---
 
 ### מתלה מגבות נסתר 3 יחידות צבע גרפיט
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-grpyt-mk558h
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-grpyt-huazvd
 Price: 590.00 ILS
 Availability: In stock
 Brand: ANAEL
@@ -4675,7 +4675,15 @@ Brand: ANAEL
 ---
 
 ### מתלה מגבות נסתר 5 יחידות צבע רוז גולד
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-rvz-gvld-3nhw2c
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-rvz-gvld-f7q1ct
+Price: 850.00 ILS
+Availability: In stock
+Brand: ANAEL
+
+---
+
+### מתלה מגבות נסתר 5 יחידות צבע זהב
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-zhb-px17nn
 Price: 850.00 ILS
 Availability: In stock
 Brand: ANAEL
