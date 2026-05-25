@@ -68,7 +68,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 5**
+**Total active products: 6**
 
 ### מתלה מגבות נסתר 3 יחידות צבע אלומניום טבעי
 https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-alvmnyvm-tbay-zynx5i
@@ -85,14 +85,21 @@ https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-rvz-gvld-15vgf8
 - Image: https://anael-pro.co.il/assets/image-product-image-1779644776172-xncxxa.webp
 
 ### מתלה מגבות נסתר 3 יחידות צבע זהב
-https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-zhb-6f5lbc
+https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-zhb-alao4j
 - Price: 590.00 ILS
 - Availability: In stock
 - Brand: ANAEL
 - Image: https://anael-pro.co.il/assets/image-product-image-1779644776172-xncxxa.webp
 
 ### מתלה מגבות נסתר 3 יחידות צבע שחור
-https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-shchvr-yopewb
+https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-shchvr-jyg0u4
+- Price: 590.00 ILS
+- Availability: In stock
+- Brand: ANAEL
+- Image: https://anael-pro.co.il/assets/image-product-image-1779644776172-xncxxa.webp
+
+### מתלה מגבות נסתר 3 יחידות צבע גרפיט
+https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ychydvt-tsba-grpyt-mk558h
 - Price: 590.00 ILS
 - Availability: In stock
 - Brand: ANAEL
