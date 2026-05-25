@@ -4682,16 +4682,24 @@ Brand: ANAEL
 
 ---
 
-### מתלה מגבות נסתר 5 יחידות צבע זהב (Copy)
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-zhb-copy-56zb8b
+### מתלה מגבות נסתר 5 יחידות צבע זהב
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-zhb-px17nn
 Price: 850.00 ILS
 Availability: In stock
 Brand: ANAEL
 
 ---
 
-### מתלה מגבות נסתר 5 יחידות צבע זהב
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-zhb-px17nn
+### מתלה מגבות נסתר 5 יחידות צבע שחור (Copy)
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-shchvr-copy-uw2t3u
+Price: 850.00 ILS
+Availability: In stock
+Brand: ANAEL
+
+---
+
+### מתלה מגבות נסתר 5 יחידות צבע שחור
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-shchvr-npzu6v
 Price: 850.00 ILS
 Availability: In stock
 Brand: ANAEL
