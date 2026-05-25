@@ -4666,9 +4666,17 @@ Brand: ANAEL
 
 ---
 
-### מתלה מגבות נסתר 5 יחידות
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-oolh6j
-Price: 590.00 ILS
+### מתלה מגבות נסתר 5 יחידות צבע אלומיניום טבעי (Copy)
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-alvmynyvm-tbay-copy-inidzf
+Price: 850.00 ILS
+Availability: In stock
+Brand: ANAEL
+
+---
+
+### מתלה מגבות נסתר 5 יחידות צבע אלומיניום טבעי
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-alvmynyvm-tbay-njno3t
+Price: 850.00 ILS
 Availability: In stock
 Brand: ANAEL
 
