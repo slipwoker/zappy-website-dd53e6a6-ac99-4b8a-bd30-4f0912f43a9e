@@ -12034,325 +12034,273 @@ main,
   }
 }
 
-/* AI-generated section */
-/* =============================================
-   ANAEL — Expertise Section
-   Dark, elegant, RTL, minimalist
-   ============================================= */
-
-.anael-expertise {
-  background: #12100e;
-  background-image:
-    radial-gradient(ellipse 80% 50% at 50% 0%, rgba(185, 116, 97, 0.10) 0%, transparent 70%),
-    radial-gradient(ellipse 60% 40% at 80% 100%, rgba(139, 94, 60, 0.08) 0%, transparent 60%);
-  padding: 100px 24px;
-  font-family: system-ui, sans-serif;
-  direction: rtl;
-  position: relative;
-  overflow: hidden;
+.navbar {
+  background-color: #EDE9E3 !important;
+  background: #EDE9E3 !important;
 }
 
-/* Subtle decorative line top */
-.anael-expertise::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  height: 1px;
-  background: linear-gradient(90deg, transparent 0%, rgba(185, 116, 97, 0.5) 50%, transparent 100%);
+.navbar .nav-menu > li > a,
+.navbar .nav-menu > .nav-item > a,
+.navbar a:not(.logo-link) {
+  color: #111111 !important;
 }
 
-/* ---- Container ---- */
-.anael-expertise__container {
-  max-width: 860px;
-  margin: 0 auto;
-  position: relative;
-  z-index: 1;
+.navbar .nav-menu > li > a:hover,
+.navbar .nav-menu > .nav-item > a:hover {
+  color: var(--secondary-color) !important;
 }
 
-/* ---- Header ---- */
-.anael-expertise__header {
-  text-align: center;
-  margin-bottom: 64px;
+.navbar .mobile-toggle,
+.navbar .phone-header-btn {
+  color: #111111 !important;
 }
 
-.anael-expertise__label {
-  display: inline-block;
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.35em;
-  color: var(--primary, #B97461);
-  text-transform: uppercase;
-  margin-bottom: 14px;
-  opacity: 0.85;
+.navbar .nav-menu > .nav-item > a {
+  color: #111111 !important;
 }
 
-.anael-expertise__title {
-  font-size: clamp(2rem, 5vw, 3rem);
-  font-weight: 300;
-  color: #f0ebe6;
-  margin: 0 0 24px 0;
-  letter-spacing: 0.04em;
-  line-height: 1.2;
+.navbar .navbar-nav .nav-link {
+  color: #111111 !important;
 }
 
-.anael-expertise__divider {
-  width: 52px;
-  height: 2px;
-  background: var(--gradient-primary, linear-gradient(135deg, #C4845A 0%, #8B5E3C 100%));
-  margin: 0 auto 28px auto;
-  border-radius: 2px;
+.navbar .dropdown-menu li a {
+  color: #111111 !important;
 }
 
-.anael-expertise__intro {
-  font-size: clamp(0.95rem, 2.5vw, 1.08rem);
-  color: #b5a99e;
-  line-height: 1.85;
-  max-width: 680px;
-  margin: 0 auto;
-  font-weight: 400;
+.navbar .dropdown-menu .dropdown-item {
+  color: #111111 !important;
 }
 
-/* ---- Expertise List ---- */
-.anael-expertise__list {
-  list-style: none;
-  margin: 0 0 64px 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
+.navbar .sub-menu li a {
+  color: #111111 !important;
 }
 
-/* ---- Each Item Card ---- */
-.anael-expertise__item {
-  display: flex;
-  align-items: center;
-  gap: 24px;
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid rgba(185, 116, 97, 0.22);
-  border-radius: 12px;
-  padding: 22px 28px;
-  cursor: default;
-  transition:
-    background 0.3s ease,
-    border-color 0.3s ease,
-    transform 0.25s ease,
-    box-shadow 0.3s ease;
-  position: relative;
-  overflow: hidden;
+.navbar .nav-menu .sub-menu a {
+  color: #111111 !important;
 }
 
-.anael-expertise__item::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  width: 3px;
-  background: var(--gradient-primary, linear-gradient(135deg, #C4845A 0%, #8B5E3C 100%));
-  border-radius: 0 12px 12px 0;
-  opacity: 0;
-  transition: opacity 0.3s ease;
+.navbar .nav-menu .sub-menu li a {
+  color: #111111 !important;
 }
 
-.anael-expertise__item:hover {
-  background: rgba(185, 116, 97, 0.09);
-  border-color: rgba(185, 116, 97, 0.45);
-  transform: translateY(-2px);
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(185, 116, 97, 0.12);
+.navbar .zappy-products-dropdown .sub-menu a {
+  color: #111111 !important;
 }
 
-.anael-expertise__item:hover::before {
-  opacity: 1;
+nav.navbar .sub-menu li a {
+  color: #111111 !important;
 }
 
-/* ---- Icon Wrap ---- */
-.anael-expertise__icon-wrap {
-  flex-shrink: 0;
-  width: 52px;
-  height: 52px;
-  border-radius: 50%;
-  background: rgba(185, 116, 97, 0.10);
-  border: 1px solid rgba(185, 116, 97, 0.25);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background 0.3s ease, border-color 0.3s ease;
+.navbar .nav-search-box .nav-search-input {
+  color: #111111 !important;
 }
 
-.anael-expertise__item:hover .anael-expertise__icon-wrap {
-  background: rgba(185, 116, 97, 0.20);
-  border-color: rgba(185, 116, 97, 0.55);
+.navbar .cart-link.nav-cart {
+  color: #111111 !important;
 }
 
-.anael-expertise__icon {
-  width: 26px;
-  height: 26px;
-  color: var(--primary, #B97461);
-  transition: color 0.3s ease;
+.navbar .login-link.nav-login {
+  color: #111111 !important;
 }
 
-.anael-expertise__item:hover .anael-expertise__icon {
-  color: #d4906e;
+.navbar .cart-link.nav-cart svg {
+  color: #111111 !important;
 }
 
-/* ---- Item Content ---- */
-.anael-expertise__item-content {
-  flex: 1;
-  min-width: 0;
+.navbar .login-link.nav-login svg {
+  color: #111111 !important;
 }
 
-.anael-expertise__item-title {
-  font-size: clamp(0.98rem, 2.5vw, 1.1rem);
-  font-weight: 500;
-  color: #e8dfd7;
-  margin: 0 0 10px 0;
-  letter-spacing: 0.01em;
-  line-height: 1.4;
-  transition: color 0.3s ease;
+.navbar.scrolled ~ .zappy-catalog-menu .catalog-menu-item {
+  color: #111111 !important;
 }
 
-.anael-expertise__item:hover .anael-expertise__item-title {
-  color: #f5ede7;
+.navbar.scrolled ~ .zappy-catalog-menu .catalog-menu-all {
+  color: #111111 !important;
 }
 
-.anael-expertise__item-bar {
-  height: 2px;
-  width: 36px;
-  background: rgba(185, 116, 97, 0.35);
-  border-radius: 2px;
-  transition: width 0.35s ease, background 0.3s ease;
+.navbar.scrolled ~ #zappy-catalog-menu .catalog-menu-item {
+  color: #111111 !important;
 }
 
-.anael-expertise__item:hover .anael-expertise__item-bar {
-  width: 64px;
-  background: var(--primary, #B97461);
+.navbar.scrolled ~ #zappy-catalog-menu .catalog-menu-all {
+  color: #111111 !important;
 }
 
-/* ---- Closing Statement ---- */
-.anael-expertise__closing {
-  display: flex;
-  align-items: flex-start;
-  gap: 24px;
-  background: rgba(185, 116, 97, 0.06);
-  border: 1px solid rgba(185, 116, 97, 0.18);
-  border-radius: 14px;
-  padding: 36px 36px 36px 36px;
-  position: relative;
+.navbar.scrolled .nav-menu > li > a {
+  color: #111111 !important;
 }
 
-.anael-expertise__closing-accent {
-  flex-shrink: 0;
-  width: 3px;
-  align-self: stretch;
-  background: var(--gradient-primary, linear-gradient(135deg, #C4845A 0%, #8B5E3C 100%));
-  border-radius: 3px;
-  min-height: 40px;
+.navbar.scrolled .nav-menu > .nav-item > a {
+  color: #111111 !important;
 }
 
-.anael-expertise__closing-text {
-  font-size: clamp(0.93rem, 2.3vw, 1.04rem);
-  color: #a89b92;
-  line-height: 1.9;
-  margin: 0;
-  font-weight: 400;
+.navbar.scrolled .nav-link {
+  color: #111111 !important;
 }
 
-/* =============================================
-   RESPONSIVE — Tablet
-   ============================================= */
-@media (max-width: 768px) {
-  .anael-expertise {
-    padding: 72px 20px;
-  }
-
-  .anael-expertise__header {
-    margin-bottom: 44px;
-  }
-
-  .anael-expertise__item {
-    padding: 18px 20px;
-    gap: 18px;
-  }
-
-  .anael-expertise__icon-wrap {
-    width: 46px;
-    height: 46px;
-  }
-
-  .anael-expertise__icon {
-    width: 22px;
-    height: 22px;
-  }
-
-  .anael-expertise__closing {
-    padding: 28px 22px;
-    gap: 18px;
-  }
+.navbar.scrolled a:not(.nav-cta-btn) {
+  color: #111111 !important;
 }
 
-/* =============================================
-   RESPONSIVE — Mobile
-   ============================================= */
-@media (max-width: 480px) {
-  .anael-expertise {
-    padding: 56px 16px;
-  }
-
-  .anael-expertise__title {
-    font-size: 1.75rem;
-  }
-
-  .anael-expertise__list {
-    gap: 12px;
-    margin-bottom: 44px;
-  }
-
-  .anael-expertise__item {
-    padding: 16px 16px;
-    gap: 14px;
-    flex-direction: row;
-    align-items: center;
-  }
-
-  .anael-expertise__icon-wrap {
-    width: 42px;
-    height: 42px;
-  }
-
-  .anael-expertise__icon {
-    width: 20px;
-    height: 20px;
-  }
-
-  .anael-expertise__item-title {
-    font-size: 0.95rem;
-  }
-
-  .anael-expertise__closing {
-    padding: 22px 18px;
-    gap: 14px;
-    flex-direction: row;
-  }
-
-  .anael-expertise__closing-text {
-    font-size: 0.9rem;
-    line-height: 1.8;
-  }
+.navbar.scrolled .navbar-brand {
+  color: #111111 !important;
 }
 
-/* =============================================
-   ACCESSIBILITY — Reduced Motion
-   ============================================= */
-@media (prefers-reduced-motion: reduce) {
-  .anael-expertise__item,
-  .anael-expertise__item-bar,
-  .anael-expertise__icon-wrap,
-  .anael-expertise__icon,
-  .anael-expertise__item::before {
-    transition: none;
-  }
+.navbar.scrolled .navbar-brand a {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .dropdown-toggle {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .mobile-hamburger-btn {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .mobile-close-btn {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .phone-header-btn {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .mobile-toggle {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .mobile-toggle svg {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .mobile-hamburger-btn svg {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .mobile-close-btn svg {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .phone-header-btn svg {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .navbar-brand svg {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .logo-link svg {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .nav-search-btn {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .cart-link.nav-cart {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .login-link.nav-login {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .nav-search-toggle {
+  color: #111111 !important;
+}
+
+.navbar.scrolled .search-toggle {
+  color: #111111 !important;
+}
+
+.navbar .nav-menu > li > a {
+  color: #111111 !important;
+}
+
+.navbar a:not(.nav-cta-btn) {
+  color: #111111 !important;
+}
+
+.navbar .navbar-brand a {
+  color: #111111 !important;
+}
+
+.navbar .sub-menu a {
+  color: #111111 !important;
+}
+
+.navbar .nav-search-input::placeholder {
+  color: #111111 !important;
+}
+
+.navbar .nav-search-result-item a {
+  color: #111111 !important;
+}
+
+.navbar .nav-search-toggle svg {
+  color: #111111 !important;
+}
+
+.navbar .search-toggle svg {
+  color: #111111 !important;
+}
+
+.navbar .nav-link {
+  color: #111111 !important;
+}
+
+.navbar .navbar-brand {
+  color: #111111 !important;
+}
+
+.navbar .dropdown-toggle {
+  color: #111111 !important;
+}
+
+.navbar .mobile-hamburger-btn {
+  color: #111111 !important;
+}
+
+.navbar .mobile-close-btn {
+  color: #111111 !important;
+}
+
+.navbar .mobile-submenu-toggle {
+  color: #111111 !important;
+}
+
+.navbar .phone-header-btn {
+  color: #111111 !important;
+}
+
+.navbar .nav-search-input {
+  color: #111111 !important;
+}
+
+.navbar .nav-search-result-name {
+  color: #111111 !important;
+}
+
+.navbar .nav-search-result-price {
+  color: #111111 !important;
+}
+
+.navbar .nav-search-no-results {
+  color: #111111 !important;
+}
+
+.navbar .search-no-results {
+  color: #111111 !important;
+}
+
+.navbar .nav-search-toggle {
+  color: #111111 !important;
+}
+
+.navbar .search-toggle {
+  color: #111111 !important;
 }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
