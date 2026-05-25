@@ -11680,6 +11680,27 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+.index-benefits-section .index-benefits-intro {
+  text-align: right;
+}
+
+.index-benefits-section .index-benefits-subtext {
+  text-align: right;
+  margin: 0;
+}
+
+.index-benefits-section .index-benefits-copper-rule {
+  margin: 0 0 28px auto;
+}
+
+.index-benefits-section .index-benefits-subtext {
+  margin: 0 !important;
+}
+
+.index-benefits-section .index-benefits-copper-rule {
+  margin: 0 0 28px auto !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
