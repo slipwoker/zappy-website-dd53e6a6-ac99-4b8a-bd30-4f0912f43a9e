@@ -11701,6 +11701,338 @@ main,
 .index-benefits-section .index-benefits-copper-rule {
   margin: 0 0 28px auto !important;
 }
+
+/* AI-generated section */
+/* ===== ANAEL About Section ===== */
+.anael-about {
+  background-color: #faf8f6;
+  padding: 96px 24px;
+  font-family: system-ui, sans-serif;
+  direction: rtl;
+  text-align: right;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Subtle background texture */
+.anael-about::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background:
+    radial-gradient(ellipse 60% 40% at 80% 20%, rgba(185, 116, 97, 0.06) 0%, transparent 70%),
+    radial-gradient(ellipse 50% 50% at 10% 80%, rgba(185, 116, 97, 0.04) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+/* Container */
+.anael-about__container {
+  max-width: 1100px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+/* Top accent line */
+.anael-about__accent {
+  width: 56px;
+  height: 3px;
+  background: var(--gradient-primary, linear-gradient(135deg, #C4845A 0%, #8B5E3C 100%));
+  border-radius: 2px;
+  margin-bottom: 28px;
+  margin-right: 0;
+}
+
+/* Header */
+.anael-about__header {
+  margin-bottom: 52px;
+}
+
+.anael-about__label {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.3em;
+  color: var(--primary, #B97461);
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  opacity: 0.85;
+}
+
+.anael-about__title {
+  font-size: clamp(2.2rem, 5vw, 3.4rem);
+  font-weight: 300;
+  color: #2a2118;
+  margin: 0;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+}
+
+.anael-about__title::after {
+  content: '';
+  display: block;
+  width: 40px;
+  height: 2px;
+  background: var(--primary, #B97461);
+  margin-top: 16px;
+  border-radius: 2px;
+  opacity: 0.5;
+}
+
+/* Grid layout */
+.anael-about__grid {
+  display: grid;
+  grid-template-columns: 1fr 420px;
+  gap: 64px;
+  align-items: start;
+}
+
+/* Text column */
+.anael-about__text-col {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
+.anael-about__intro {
+  font-size: 1.1rem;
+  line-height: 1.85;
+  color: #4a3d35;
+  margin: 0;
+  font-weight: 400;
+  border-right: 3px solid var(--primary, #B97461);
+  padding-right: 20px;
+}
+
+/* Values block */
+.anael-about__values {
+  background: #ffffff;
+  border: 1px solid rgba(185, 116, 97, 0.18);
+  border-radius: 14px;
+  padding: 28px 32px;
+  box-shadow: 0 4px 20px rgba(185, 116, 97, 0.07);
+}
+
+.anael-about__subtitle {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #2a2118;
+  margin: 0 0 20px 0;
+  letter-spacing: 0.02em;
+}
+
+.anael-about__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.anael-about__list-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 0.97rem;
+  color: #3d3028;
+  font-weight: 500;
+  line-height: 1.5;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+
+.anael-about__check {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  min-width: 26px;
+  background: var(--gradient-primary, linear-gradient(135deg, #C4845A 0%, #8B5E3C 100%));
+  color: #ffffff;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: 700;
+  box-shadow: 0 2px 8px rgba(185, 116, 97, 0.35);
+}
+
+.anael-about__closing {
+  font-size: 0.97rem;
+  line-height: 1.9;
+  color: #5a4d45;
+  margin: 0;
+  font-weight: 400;
+}
+
+/* Image column */
+.anael-about__image-col {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.anael-about__image-wrapper {
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow:
+    0 12px 40px rgba(185, 116, 97, 0.18),
+    0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.anael-about__image {
+  display: block;
+  width: 100%;
+  height: 360px;
+  object-fit: cover;
+  border-radius: 18px;
+  transition: transform 0.5s ease;
+}
+
+.anael-about__image-wrapper:hover .anael-about__image {
+  transform: scale(1.03);
+}
+
+/* Image badge */
+.anael-about__image-badge {
+  position: absolute;
+  bottom: 18px;
+  right: 18px;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(185, 116, 97, 0.2);
+  border-radius: 50px;
+  padding: 8px 16px;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.anael-about__badge-icon {
+  color: var(--primary, #B97461);
+  font-size: 13px;
+}
+
+.anael-about__badge-text {
+  font-size: 12px;
+  font-weight: 700;
+  color: #2a2118;
+  letter-spacing: 0.04em;
+}
+
+/* Stats strip */
+.anael-about__stats {
+  background: #ffffff;
+  border: 1px solid rgba(185, 116, 97, 0.15);
+  border-radius: 14px;
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 4px 16px rgba(185, 116, 97, 0.07);
+}
+
+.anael-about__stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  flex: 1;
+}
+
+.anael-about__stat-num {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--primary, #B97461);
+  line-height: 1;
+}
+
+.anael-about__stat-label {
+  font-size: 11px;
+  font-weight: 500;
+  color: #7a6a60;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.anael-about__stat-divider {
+  width: 1px;
+  height: 36px;
+  background: rgba(185, 116, 97, 0.2);
+  flex-shrink: 0;
+}
+
+/* ===== Responsive — Tablet ===== */
+@media (max-width: 900px) {
+  .anael-about__grid {
+    grid-template-columns: 1fr;
+    gap: 44px;
+  }
+
+  .anael-about__image-col {
+    order: -1;
+  }
+
+  .anael-about__image {
+    height: 280px;
+  }
+}
+
+/* ===== Responsive — Mobile ===== */
+@media (max-width: 600px) {
+  .anael-about {
+    padding: 64px 18px;
+  }
+
+  .anael-about__title {
+    font-size: 2rem;
+  }
+
+  .anael-about__header {
+    margin-bottom: 36px;
+  }
+
+  .anael-about__grid {
+    gap: 32px;
+  }
+
+  .anael-about__text-col {
+    gap: 24px;
+  }
+
+  .anael-about__intro {
+    font-size: 1rem;
+  }
+
+  .anael-about__values {
+    padding: 22px 20px;
+  }
+
+  .anael-about__image {
+    height: 220px;
+  }
+
+  .anael-about__stats {
+    padding: 16px 14px;
+  }
+
+  .anael-about__stat-num {
+    font-size: 1.05rem;
+  }
+
+  .anael-about__stat-label {
+    font-size: 10px;
+  }
+
+  .anael-about__list-item {
+    font-size: 0.93rem;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
