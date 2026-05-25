@@ -12303,6 +12303,11 @@ nav.navbar .sub-menu li a {
 .navbar .search-toggle {
   color: #111111 !important;
 }
+
+.index-hero-section .index-hero-rule-top,
+.index-hero-section .index-hero-rule-bottom {
+  display: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
