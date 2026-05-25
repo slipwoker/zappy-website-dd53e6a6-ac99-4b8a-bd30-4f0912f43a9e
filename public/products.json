@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-25T11:05:50.241Z",
+  "generated_at": "2026-05-25T11:05:56.908Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
-  "count": 8,
+  "count": 9,
   "products": [
     {
       "id": "afd03626-52b8-43f5-a517-4d75cbb944b8",
@@ -158,6 +158,28 @@
       "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-rvz-gvld-f7q1ct",
       "categories": [],
       "updated_at": "2026-05-25T11:05:42.546Z"
+    },
+    {
+      "id": "b8fdbf57-fdce-4075-a0d1-9aa2974120b4",
+      "slug": "mtlh-mgbvt-nstr-5-ychydvt-tsba-zhb-copy-56zb8b",
+      "name": "מתלה מגבות נסתר 5 יחידות צבע זהב (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "ANAEL",
+      "price": 850,
+      "base_price": 850,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://anael-pro.co.il/assets/image-product-image-1779645451099-3kjcj2.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ychydvt-tsba-zhb-copy-56zb8b",
+      "categories": [],
+      "updated_at": "2026-05-25T11:05:50.184Z"
     },
     {
       "id": "74559948-0cb4-46da-a701-a9975b209a5b",
