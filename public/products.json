@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T11:36:00.706Z",
+  "generated_at": "2026-05-26T12:04:44.653Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
-  "count": 10,
+  "count": 8,
   "products": [
     {
       "id": "afd03626-52b8-43f5-a517-4d75cbb944b8",
@@ -48,28 +48,6 @@
       "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-rvz-gvld-wn8ufg",
       "categories": [],
       "updated_at": "2026-05-25T11:11:40.988Z"
-    },
-    {
-      "id": "4085da6f-1104-4f9c-88f7-7ec2bf78833d",
-      "slug": "mtlh-mgbvt-nstr-3-ych-zhb-ohnrmt",
-      "name": "מתלה מגבות נסתר 3 יח' זהב",
-      "name_translations": {},
-      "description": "",
-      "short_description": "מתלי מגבות נסתרים 3 יחידות מבית ANAEL – המראה הנקי והיוקרתי שחדר הרחצה שלך צריך!\n\nשדרגו את חדר הרחצה או המטבח עם סט של 3 מתלים בעיצוב מינימליסטי ומודרני, המעניקים מראה \"צף\" ונקי ללא ברגים גלויים לעין. המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.\n\nמקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!",
-      "sku": null,
-      "brand": "ANAEL",
-      "price": 590,
-      "base_price": 590,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://anael-pro.co.il/assets/image-product-image-1779644776172-xncxxa.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-ohnrmt",
-      "categories": [],
-      "updated_at": "2026-05-25T11:11:48.673Z"
     },
     {
       "id": "8c3cd2f3-e1e6-49e7-8ea5-0fc3f107ceb7",
@@ -163,28 +141,6 @@
       "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-rvz-gvld-pwz4gu",
       "categories": [],
       "updated_at": "2026-05-25T11:10:48.978Z"
-    },
-    {
-      "id": "74559948-0cb4-46da-a701-a9975b209a5b",
-      "slug": "mtlh-mgbvt-nstr-5-ych-zhb-w444ai",
-      "name": "מתלה מגבות נסתר 5 יח' זהב",
-      "name_translations": {},
-      "description": "",
-      "short_description": "מתלי מגבות נסתרים 5 יחידות מבית ANAEL – המראה הנקי והיוקרתי שחדר הרחצה שלך צריך!\n\nשדרגו את חדר הרחצה או המטבח עם סט של 3 מתלים בעיצוב מינימליסטי ומודרני, המעניקים מראה \"צף\" ונקי ללא ברגים גלויים לעין. המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.\n\nמקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!",
-      "sku": null,
-      "brand": "ANAEL",
-      "price": 850,
-      "base_price": 850,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://anael-pro.co.il/assets/image-product-image-1779645451099-3kjcj2.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-zhb-w444ai",
-      "categories": [],
-      "updated_at": "2026-05-25T11:12:18.117Z"
     },
     {
       "id": "399be309-a048-45a1-b7c8-353824708bcf",

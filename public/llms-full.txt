@@ -4600,14 +4600,6 @@ Brand: ANAEL
 
 ---
 
-### מתלה מגבות נסתר 3 יח' זהב
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-ohnrmt
-Price: 590.00 ILS
-Availability: In stock
-Brand: ANAEL
-
----
-
 ### מתלה מגבות נסתר 3 יח' שחור
 URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-shchvr-3z1fvp
 Price: 590.00 ILS
@@ -4636,14 +4628,6 @@ Brand: ANAEL
 
 ### מתלה מגבות נסתר 5 יח' רוז גולד
 URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-rvz-gvld-pwz4gu
-Price: 850.00 ILS
-Availability: In stock
-Brand: ANAEL
-
----
-
-### מתלה מגבות נסתר 5 יח' זהב
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-zhb-w444ai
 Price: 850.00 ILS
 Availability: In stock
 Brand: ANAEL
