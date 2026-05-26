@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T12:05:00.516Z",
+  "generated_at": "2026-05-26T12:06:28.969Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
-  "count": 8,
+  "count": 9,
   "products": [
     {
       "id": "afd03626-52b8-43f5-a517-4d75cbb944b8",
@@ -48,6 +48,33 @@
       "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-rvz-gvld-wn8ufg",
       "categories": [],
       "updated_at": "2026-05-25T11:11:40.988Z"
+    },
+    {
+      "id": "9655134c-c3c9-4967-83b5-4a0faade0e31",
+      "slug": "mtlh-mgbvt-nstr-3-ych-shchvr-copy-hb906k",
+      "name": "מתלה מגבות נסתר 3 יח' שחור (Copy)",
+      "name_translations": {},
+      "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": "ANAEL",
+      "price": 590,
+      "base_price": 590,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://anael-pro.co.il/assets/product-1779783684720-hrufws.webp",
+        "https://anael-pro.co.il/assets/product-1779795247135-xrb4y.webp",
+        "https://anael-pro.co.il/assets/product-1779784655832-jtsrlj.webp",
+        "https://anael-pro.co.il/assets/product-1779795242218-jblivl.webp",
+        "https://anael-pro.co.il/assets/product-1779784671442-39eh2i.webp",
+        "https://anael-pro.co.il/assets/product-1779795167364-hjjslm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-shchvr-copy-hb906k",
+      "categories": [],
+      "updated_at": "2026-05-26T12:05:57.518Z"
     },
     {
       "id": "8c3cd2f3-e1e6-49e7-8ea5-0fc3f107ceb7",
