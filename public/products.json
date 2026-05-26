@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T08:42:29.459Z",
+  "generated_at": "2026-05-26T11:35:20.518Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 10,
@@ -73,7 +73,7 @@
     },
     {
       "id": "8c3cd2f3-e1e6-49e7-8ea5-0fc3f107ceb7",
-      "slug": "mtlh-mgbvt-nstr-3-ych-shchvr-re6opx",
+      "slug": "mtlh-mgbvt-nstr-3-ych-shchvr-34injf",
       "name": "מתלה מגבות נסתר 3 יח' שחור",
       "name_translations": {},
       "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
@@ -85,18 +85,18 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://anael-pro.co.il/assets/product-1779783660430-wbztn4.webp",
         "https://anael-pro.co.il/assets/product-1779783684720-hrufws.webp",
-        "https://anael-pro.co.il/assets/product-1779783702699-k7dbk.webp",
+        "https://anael-pro.co.il/assets/product-1779795247135-xrb4y.webp",
         "https://anael-pro.co.il/assets/product-1779784655832-jtsrlj.webp",
+        "https://anael-pro.co.il/assets/product-1779795242218-jblivl.webp",
         "https://anael-pro.co.il/assets/product-1779784671442-39eh2i.webp",
-        "https://anael-pro.co.il/assets/product-1779784678945-89w883.webp"
+        "https://anael-pro.co.il/assets/product-1779795167364-hjjslm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-shchvr-re6opx",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-shchvr-34injf",
       "categories": [],
-      "updated_at": "2026-05-26T08:41:58.588Z"
+      "updated_at": "2026-05-26T11:34:49.643Z"
     },
     {
       "id": "e53898ba-b96f-46cf-91c1-de753a0cf1d9",
