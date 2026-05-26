@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-26T08:18:05.053Z",
+  "generated_at": "2026-05-26T08:23:42.548Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 10,
@@ -73,7 +73,7 @@
     },
     {
       "id": "8c3cd2f3-e1e6-49e7-8ea5-0fc3f107ceb7",
-      "slug": "mtlh-mgbvt-nstr-3-ych-shchvr-64f53e",
+      "slug": "mtlh-mgbvt-nstr-3-ych-shchvr-4q1szb",
       "name": "מתלה מגבות נסתר 3 יח' שחור",
       "name_translations": {},
       "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה</p><p>3 שבלונות לקידוח</p><p>מקדח 25 מ\"מ מתנה</p><p>אביזר לבדיקת עומק הקידוח</p><p>שבלונה לדיקוק האריח</p><p>אביזר לשמירת האריח בזמן הקידוח</p>",
@@ -85,14 +85,18 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://anael-pro.co.il/assets/product-1779779574936-4u5rn5.webp",
-        "https://anael-pro.co.il/assets/product-1779780516925-837s7l.webp"
+        "https://anael-pro.co.il/assets/product-1779783660430-wbztn4.webp",
+        "https://anael-pro.co.il/assets/product-1779783684720-hrufws.webp",
+        "https://anael-pro.co.il/assets/product-1779783702699-k7dbk.webp",
+        "https://anael-pro.co.il/assets/product-1779783708727-n5k028.webp",
+        "https://anael-pro.co.il/assets/product-1779783722681-9dbrs7.webp",
+        "https://anael-pro.co.il/assets/product-1779783729902-fo0mgd.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-shchvr-64f53e",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-shchvr-4q1szb",
       "categories": [],
-      "updated_at": "2026-05-26T08:17:34.160Z"
+      "updated_at": "2026-05-26T08:23:16.811Z"
     },
     {
       "id": "e53898ba-b96f-46cf-91c1-de753a0cf1d9",
