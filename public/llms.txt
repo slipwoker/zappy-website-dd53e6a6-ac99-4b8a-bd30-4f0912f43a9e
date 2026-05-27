@@ -71,12 +71,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 2**
 
 ### מתלה מגבות נסתר 3 יח' זהב
-https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-82fsm1
+https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-wlpl32
 - Price: 590.00 ILS
 - Availability: In stock
 - Brand: ANAEL
 - Description: טסט של עדן ועידו
-- Image: https://anael-pro.co.il/assets/product-1779797598856-wdeu9l.webp
+- Image: https://anael-pro.co.il/assets/product-1779797619338-lfrry.webp
 
 ### מתלה מגבות נסתר 3 יח' שחור
 https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-shchvr-cbf7ev
