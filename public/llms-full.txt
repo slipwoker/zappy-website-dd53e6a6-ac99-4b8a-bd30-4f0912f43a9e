@@ -4909,6 +4909,13 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 
 ## Product Catalog
 
+### התקנה 
+URL: https://anael-pro.co.il/product/htknh-b795o9
+Price: 10.00 ILS
+Availability: In stock
+
+---
+
 ### מתלה מגבות נסתר 3 יח' זהב
 URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-0pyr8e
 Price: 590.00 ILS

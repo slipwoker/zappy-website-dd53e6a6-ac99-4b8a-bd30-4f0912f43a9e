@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T08:36:09.576Z",
+  "generated_at": "2026-05-27T08:44:03.054Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
-  "count": 10,
+  "count": 11,
   "products": [
+    {
+      "id": "42ad0ec3-3d60-45af-8735-a1e15379dda3",
+      "slug": "htknh-b795o9",
+      "name": "התקנה ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 10,
+      "base_price": 10,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://anael-pro.co.il/product/htknh-b795o9",
+      "categories": [],
+      "updated_at": "2026-05-27T08:43:31.914Z"
+    },
     {
       "id": "312fc91d-cea4-4152-8331-e507baae5b8c",
       "slug": "mtlh-mgbvt-nstr-3-ych-zhb-0pyr8e",
