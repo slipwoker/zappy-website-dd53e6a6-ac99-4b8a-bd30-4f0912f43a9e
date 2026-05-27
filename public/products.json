@@ -1,32 +1,10 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T08:08:11.409Z",
+  "generated_at": "2026-05-27T08:09:18.247Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 10,
   "products": [
-    {
-      "id": "d0cb0a4e-42e5-4d7d-8862-20da0f249366",
-      "slug": "mtlh-mgbvt-nstr-3-ych-alvmynyvm-tbay-yarfto",
-      "name": "מתלה מגבות נסתר 3 יח' אלומיניום טבעי",
-      "name_translations": {},
-      "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
-      "short_description": null,
-      "sku": null,
-      "brand": "ANAEL",
-      "price": 590,
-      "base_price": 590,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://anael-pro.co.il/assets/product-1779867101546-1orbc.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-alvmynyvm-tbay-yarfto",
-      "categories": [],
-      "updated_at": "2026-05-27T08:08:08.254Z"
-    },
     {
       "id": "312fc91d-cea4-4152-8331-e507baae5b8c",
       "slug": "mtlh-mgbvt-nstr-3-ych-zhb-0pyr8e",
@@ -50,7 +28,51 @@
       "stock_status": "in_stock",
       "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-0pyr8e",
       "categories": [],
-      "updated_at": "2026-05-27T08:08:08.254Z"
+      "updated_at": "2026-05-27T08:08:40.592Z"
+    },
+    {
+      "id": "d0cb0a4e-42e5-4d7d-8862-20da0f249366",
+      "slug": "mtlh-mgbvt-nstr-3-ych-alvmynyvm-tbay-yarfto",
+      "name": "מתלה מגבות נסתר 3 יח' אלומיניום טבעי",
+      "name_translations": {},
+      "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": "ANAEL",
+      "price": 590,
+      "base_price": 590,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://anael-pro.co.il/assets/product-1779867101546-1orbc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-alvmynyvm-tbay-yarfto",
+      "categories": [],
+      "updated_at": "2026-05-27T08:08:40.592Z"
+    },
+    {
+      "id": "99a1749f-ff82-4284-b941-04d24f2532e0",
+      "slug": "mtlh-mgbvt-nstr-3-ych-rvz-gvld-jspv24",
+      "name": "מתלה מגבות נסתר 3 יח' רוז גולד",
+      "name_translations": {},
+      "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": "ANAEL",
+      "price": 590,
+      "base_price": 590,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://anael-pro.co.il/assets/product-1779866713310-rju2z.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-rvz-gvld-jspv24",
+      "categories": [],
+      "updated_at": "2026-05-27T08:08:40.592Z"
     },
     {
       "id": "8c3cd2f3-e1e6-49e7-8ea5-0fc3f107ceb7",
@@ -77,51 +99,7 @@
       "stock_status": "in_stock",
       "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-shchvr-cbf7ev",
       "categories": [],
-      "updated_at": "2026-05-27T08:08:08.254Z"
-    },
-    {
-      "id": "99a1749f-ff82-4284-b941-04d24f2532e0",
-      "slug": "mtlh-mgbvt-nstr-3-ych-rvz-gvld-jspv24",
-      "name": "מתלה מגבות נסתר 3 יח' רוז גולד",
-      "name_translations": {},
-      "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
-      "short_description": null,
-      "sku": null,
-      "brand": "ANAEL",
-      "price": 590,
-      "base_price": 590,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://anael-pro.co.il/assets/product-1779866713310-rju2z.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-rvz-gvld-jspv24",
-      "categories": [],
-      "updated_at": "2026-05-27T08:08:08.254Z"
-    },
-    {
-      "id": "307322d6-422e-4a59-b0e4-8515b338d04e",
-      "slug": "mtlh-mgbvt-nstr-5-ych-alvmynyvm-tbay-6prjf2",
-      "name": "מתלה מגבות נסתר 5 יח' אלומיניום טבעי",
-      "name_translations": {},
-      "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>5 יחידות מתלה, 5 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
-      "short_description": null,
-      "sku": null,
-      "brand": "ANAEL",
-      "price": 850,
-      "base_price": 850,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://anael-pro.co.il/assets/product-1779869215747-iu6zz.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-alvmynyvm-tbay-6prjf2",
-      "categories": [],
-      "updated_at": "2026-05-27T08:08:08.254Z"
+      "updated_at": "2026-05-27T08:08:40.592Z"
     },
     {
       "id": "0f5bea8a-5be4-4c96-a690-2e33acdbeef6",
@@ -143,12 +121,12 @@
       "stock_status": "in_stock",
       "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-grpyt-8lf52p",
       "categories": [],
-      "updated_at": "2026-05-27T08:08:08.254Z"
+      "updated_at": "2026-05-27T08:08:40.592Z"
     },
     {
-      "id": "57765b72-d1d2-473f-9594-c7cd757344e8",
-      "slug": "mtlh-mgbvt-nstr-5-ych-shchvr-tctl92",
-      "name": "מתלה מגבות נסתר 5 יח' שחור ",
+      "id": "307322d6-422e-4a59-b0e4-8515b338d04e",
+      "slug": "mtlh-mgbvt-nstr-5-ych-alvmynyvm-tbay-6prjf2",
+      "name": "מתלה מגבות נסתר 5 יח' אלומיניום טבעי",
       "name_translations": {},
       "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>5 יחידות מתלה, 5 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
       "short_description": null,
@@ -159,13 +137,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://anael-pro.co.il/assets/product-1779867963865-7lqwaj.webp"
+        "https://anael-pro.co.il/assets/product-1779869215747-iu6zz.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-shchvr-tctl92",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-alvmynyvm-tbay-6prjf2",
       "categories": [],
-      "updated_at": "2026-05-27T08:08:08.254Z"
+      "updated_at": "2026-05-27T08:08:40.592Z"
     },
     {
       "id": "c34975f4-35b2-4ad7-b768-69af70a3adaa",
@@ -187,11 +165,33 @@
       "stock_status": "in_stock",
       "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-rvz-gvld-78ciy8",
       "categories": [],
-      "updated_at": "2026-05-27T08:08:08.254Z"
+      "updated_at": "2026-05-27T08:08:40.592Z"
+    },
+    {
+      "id": "57765b72-d1d2-473f-9594-c7cd757344e8",
+      "slug": "mtlh-mgbvt-nstr-5-ych-shchvr-tctl92",
+      "name": "מתלה מגבות נסתר 5 יח' שחור ",
+      "name_translations": {},
+      "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>5 יחידות מתלה, 5 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": "ANAEL",
+      "price": 850,
+      "base_price": 850,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://anael-pro.co.il/assets/product-1779867963865-7lqwaj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-shchvr-tctl92",
+      "categories": [],
+      "updated_at": "2026-05-27T08:08:40.592Z"
     },
     {
       "id": "c5fe0e8e-636d-400f-b5b2-993b0803664a",
-      "slug": "mtlh-mgbvt-nstr-5-ych-grpyt-5hhfk6",
+      "slug": "mtlh-mgbvt-nstr-5-ych-grpyt-nby61s",
       "name": "מתלה מגבות נסתר 5 יח' גרפיט",
       "name_translations": {},
       "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>5 יחידות מתלה, 5 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
@@ -207,9 +207,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-grpyt-5hhfk6",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-grpyt-nby61s",
       "categories": [],
-      "updated_at": "2026-05-27T08:08:08.254Z"
+      "updated_at": "2026-05-27T08:08:47.289Z"
     },
     {
       "id": "9655134c-c3c9-4967-83b5-4a0faade0e31",
@@ -231,7 +231,7 @@
       "stock_status": "in_stock",
       "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-zhb-844ha5",
       "categories": [],
-      "updated_at": "2026-05-27T08:08:08.254Z"
+      "updated_at": "2026-05-27T08:08:40.592Z"
     }
   ]
 }
