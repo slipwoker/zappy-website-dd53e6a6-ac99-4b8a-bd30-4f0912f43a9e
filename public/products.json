@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T07:52:06.940Z",
+  "generated_at": "2026-05-27T07:52:41.317Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 7,
   "products": [
     {
       "id": "312fc91d-cea4-4152-8331-e507baae5b8c",
-      "slug": "mtlh-mgbvt-nstr-3-ych-zhb-copy-uj98kg",
-      "name": "מתלה מגבות נסתר 3 יח' זהב (Copy)",
+      "slug": "mtlh-mgbvt-nstr-3-ych-zhb-0pyr8e",
+      "name": "מתלה מגבות נסתר 3 יח' זהב",
       "name_translations": {},
       "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
       "short_description": null,
@@ -26,9 +26,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-copy-uj98kg",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-0pyr8e",
       "categories": [],
-      "updated_at": "2026-05-27T07:50:47.138Z"
+      "updated_at": "2026-05-27T07:52:10.538Z"
     },
     {
       "id": "307322d6-422e-4a59-b0e4-8515b338d04e",
