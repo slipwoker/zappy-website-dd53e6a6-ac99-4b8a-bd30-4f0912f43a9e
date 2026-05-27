@@ -4511,22 +4511,6 @@ anael מחויבת לשביעות רצון לקוחותיה. מדיניות זו
 
 ## Product Catalog
 
-### מתלה מגבות נסתר 3 יח' אלומניום טבעי
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-alvmnyvm-tbay-r12wzj
-Price: 590.00 ILS
-Availability: In stock
-Brand: ANAEL
-
----
-
-### מתלה מגבות נסתר 3 יח' רוז גולד
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-rvz-gvld-wn8ufg
-Price: 590.00 ILS
-Availability: In stock
-Brand: ANAEL
-
----
-
 ### מתלה מגבות נסתר 3 יח' זהב
 URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-82fsm1
 Price: 590.00 ILS
@@ -4544,46 +4528,6 @@ Availability: In stock
 Brand: ANAEL
 
 המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים. מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ! הערכה כוללת: 3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח
-
----
-
-### מתלה מגבות נסתר 3 יח' גרפיט
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-grpyt-i1t3eg
-Price: 590.00 ILS
-Availability: In stock
-Brand: ANAEL
-
----
-
-### מתלה מגבות נסתר 5 יח' אלומיניום טבעי
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-alvmynyvm-tbay-7d83nv
-Price: 850.00 ILS
-Availability: In stock
-Brand: ANAEL
-
----
-
-### מתלה מגבות נסתר 5 יח' רוז גולד
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-rvz-gvld-pwz4gu
-Price: 850.00 ILS
-Availability: In stock
-Brand: ANAEL
-
----
-
-### מתלה מגבות נסתר 5 יח' גרפיט
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-grpyt-xznv9r
-Price: 850.00 ILS
-Availability: In stock
-Brand: ANAEL
-
----
-
-### מתלה מגבות נסתר 5 יח' שחור
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-shchvr-eeohg8
-Price: 850.00 ILS
-Availability: In stock
-Brand: ANAEL
 
 ---
 
