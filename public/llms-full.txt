@@ -4511,16 +4511,6 @@ anael מחויבת לשביעות רצון לקוחותיה. מדיניות זו
 
 ## Product Catalog
 
-### מתלה מגבות נסתר 3 יח' זהב
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-0pyr8e
-Price: 590.00 ILS
-Availability: In stock
-Brand: ANAEL
-
-המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים. מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ! הערכה כוללת: 3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח
-
----
-
 ### מתלה מגבות נסתר 3 יח' אלומיניום טבעי
 URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-alvmynyvm-tbay-yarfto
 Price: 590.00 ILS
@@ -4531,8 +4521,8 @@ Brand: ANAEL
 
 ---
 
-### מתלה מגבות נסתר 3 יח' רוז גולד
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-rvz-gvld-jspv24
+### מתלה מגבות נסתר 3 יח' זהב
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-0pyr8e
 Price: 590.00 ILS
 Availability: In stock
 Brand: ANAEL
@@ -4551,8 +4541,8 @@ Brand: ANAEL
 
 ---
 
-### מתלה מגבות נסתר 3 יח' גרפיט
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-grpyt-8lf52p
+### מתלה מגבות נסתר 3 יח' רוז גולד
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-rvz-gvld-jspv24
 Price: 590.00 ILS
 Availability: In stock
 Brand: ANAEL
@@ -4571,13 +4561,13 @@ Brand: ANAEL
 
 ---
 
-### מתלה מגבות נסתר 5 יח' רוז גולד
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-rvz-gvld-78ciy8
-Price: 850.00 ILS
+### מתלה מגבות נסתר 3 יח' גרפיט
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-grpyt-8lf52p
+Price: 590.00 ILS
 Availability: In stock
 Brand: ANAEL
 
-המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים. מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ! הערכה כוללת: 5 יחידות מתלה, 5 שבלונות לקידוח, מקדח 25 מ"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח
+המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים. מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ! הערכה כוללת: 3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח
 
 ---
 
@@ -4591,8 +4581,18 @@ Brand: ANAEL
 
 ---
 
+### מתלה מגבות נסתר 5 יח' רוז גולד
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-rvz-gvld-78ciy8
+Price: 850.00 ILS
+Availability: In stock
+Brand: ANAEL
+
+המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים. מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ! הערכה כוללת: 5 יחידות מתלה, 5 שבלונות לקידוח, מקדח 25 מ"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח
+
+---
+
 ### מתלה מגבות נסתר 5 יח' גרפיט
-URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-grpyt-pzzer0
+URL: https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-grpyt-5hhfk6
 Price: 850.00 ILS
 Availability: In stock
 Brand: ANAEL
