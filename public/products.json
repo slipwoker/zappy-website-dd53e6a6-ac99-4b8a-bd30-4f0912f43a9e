@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T08:04:24.113Z",
+  "generated_at": "2026-05-27T08:05:27.942Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 10,
@@ -191,25 +191,25 @@
     },
     {
       "id": "c34975f4-35b2-4ad7-b768-69af70a3adaa",
-      "slug": "mtlh-mgbvt-nstr-3-ych-rvz-gvld-copy-9pu4oc",
-      "name": "מתלה מגבות נסתר 3 יח' רוז גולד (Copy)",
+      "slug": "mtlh-mgbvt-nstr-5-ych-rvz-gvld-78ciy8",
+      "name": "מתלה מגבות נסתר 5 יח' רוז גולד",
       "name_translations": {},
-      "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
+      "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>5 יחידות מתלה, 5 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
       "short_description": null,
       "sku": null,
       "brand": "ANAEL",
-      "price": 590,
-      "base_price": 590,
+      "price": 850,
+      "base_price": 850,
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://anael-pro.co.il/assets/product-1779866713310-rju2z.webp"
+        "https://anael-pro.co.il/assets/product-1779869080130-ld6ooq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-rvz-gvld-copy-9pu4oc",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-rvz-gvld-78ciy8",
       "categories": [],
-      "updated_at": "2026-05-27T08:04:20.344Z"
+      "updated_at": "2026-05-27T08:04:56.889Z"
     },
     {
       "id": "9655134c-c3c9-4967-83b5-4a0faade0e31",
