@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T07:40:35.763Z",
+  "generated_at": "2026-05-27T07:41:47.035Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 5,
   "products": [
     {
       "id": "0f5bea8a-5be4-4c96-a690-2e33acdbeef6",
-      "slug": "mtlh-mgbvt-nstr-3-ych-rvz-gvld-copy-yjigw3",
-      "name": "מתלה מגבות נסתר 3 יח' רוז גולד (Copy)",
+      "slug": "mtlh-mgbvt-nstr-3-ych-grpyt-8lf52p",
+      "name": "מתלה מגבות נסתר 3 יח' גרפיט",
       "name_translations": {},
       "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
       "short_description": null,
@@ -19,13 +19,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://anael-pro.co.il/assets/product-1779866713310-rju2z.webp"
+        "https://anael-pro.co.il/assets/product-1779867664078-9z8ku4.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-rvz-gvld-copy-yjigw3",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-grpyt-8lf52p",
       "categories": [],
-      "updated_at": "2026-05-27T07:40:04.829Z"
+      "updated_at": "2026-05-27T07:41:25.256Z"
     },
     {
       "id": "307322d6-422e-4a59-b0e4-8515b338d04e",
