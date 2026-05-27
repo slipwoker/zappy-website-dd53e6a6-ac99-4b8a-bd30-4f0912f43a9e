@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T08:00:35.808Z",
+  "generated_at": "2026-05-27T08:01:09.593Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 9,
@@ -32,8 +32,8 @@
     },
     {
       "id": "d0cb0a4e-42e5-4d7d-8862-20da0f249366",
-      "slug": "mtlh-mgbvt-nstr-3-ych-rvz-alvmynyvm-tbay-xb8xxr",
-      "name": "מתלה מגבות נסתר 3 יח' רוז אלומיניום טבעי",
+      "slug": "mtlh-mgbvt-nstr-3-ych-alvmynyvm-tbay-yarfto",
+      "name": "מתלה מגבות נסתר 3 יח' אלומיניום טבעי",
       "name_translations": {},
       "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
       "short_description": null,
@@ -48,9 +48,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-rvz-alvmynyvm-tbay-xb8xxr",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-alvmynyvm-tbay-yarfto",
       "categories": [],
-      "updated_at": "2026-05-27T08:00:04.856Z"
+      "updated_at": "2026-05-27T08:00:38.688Z"
     },
     {
       "id": "99a1749f-ff82-4284-b941-04d24f2532e0",
