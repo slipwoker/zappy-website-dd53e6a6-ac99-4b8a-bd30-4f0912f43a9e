@@ -68,7 +68,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 5**
+**Total active products: 6**
 
 ### מתלה מגבות נסתר 3 יח' גרפיט
 https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-grpyt-8lf52p
@@ -109,6 +109,14 @@ https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-zhb-mf9zna
 - Brand: ANAEL
 - Description: טסט של עדן ועידו
 - Image: https://anael-pro.co.il/assets/product-1779797619338-lfrry.webp
+
+### מתלה מגבות נסתר 3 יח' שחור (Copy)
+https://anael-pro.co.il/product/mtlh-mgbvt-nstr-3-ych-shchvr-copy-z4se6y
+- Price: 590.00 ILS
+- Availability: In stock
+- Brand: ANAEL
+- Description: המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים. מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ! הערכה כוללת: 3 יחידות מתלה, 3 שבלונות לקידוח, מקדח 25 מ"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח
+- Image: https://anael-pro.co.il/assets/product-1779795247135-xrb4y.webp
 
 ---
 
