@@ -351,7 +351,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "dd53e6a6-ac99-4b8a-bd30-4f0912f43a9e";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
+<script>window.ZAPPY_WEBSITE_ID = "dd53e6a6-ac99-4b8a-bd30-4f0912f43a9e";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -443,12 +443,12 @@
     // Check if background is transparent or rgba with 0 alpha
     const isTransparent = bgColor === 'transparent' || 
                          bgColor === 'rgba(0, 0, 0, 0)' ||
-                         (bgColor.startsWith('rgba') &amp;&amp; bgColor.includes(', 0)'));
+                         (bgColor.startsWith('rgba') && bgColor.includes(', 0)'));
     
     if (isTransparent) {
       // Check for background-image or gradient
       const bgImage = computedStyle.backgroundImage;
-      if (bgImage &amp;&amp; bgImage !== 'none') {
+      if (bgImage && bgImage !== 'none') {
         console.log('[Navbar] Navbar has background image/gradient, using dark text');
         bgColor = 'rgb(240, 240, 240)'; // Assume light background
       } else {
@@ -461,7 +461,7 @@
     
     // Calculate luminance to determine if background is light or dark
     const rgb = bgColor.match(/\d+/g);
-    if (rgb &amp;&amp; rgb.length &gt;= 3) {
+    if (rgb && rgb.length >= 3) {
       const r = parseInt(rgb[0]);
       const g = parseInt(rgb[1]);
       const b = parseInt(rgb[2]);
@@ -601,7 +601,7 @@
       // ONLY apply inline positioning styles on mobile viewport
       // On desktop, the CSS handles hiding these buttons with display: none
       // Inline styles were breaking desktop layout by overriding CSS
-      const isMobileViewport = window.innerWidth &lt;= 768;
+      const isMobileViewport = window.innerWidth <= 768;
       
       if (mobileToggle) {
         // Icon sizing applies to all viewports for consistency
@@ -748,7 +748,7 @@
     var lastToggleTime = 0;
     function guardedToggle(e) {
       var now = Date.now();
-      if (now - lastToggleTime &lt; 300) return;
+      if (now - lastToggleTime < 300) return;
       lastToggleTime = now;
       handleToggle(e);
     }
@@ -809,7 +809,7 @@
       phoneBtn.addEventListener('click', function() {
         // Get phone number from placeholder in page or use default
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
-        const phoneNumber = phoneLinks.length &gt; 0 
+        const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
           : '+972544421387';
         
@@ -841,19 +841,19 @@
   <div class="index-hero-scrim" aria-hidden="true" style="opacity: 0"></div>
 
   <!-- Content Overlay -->
-  <div class="index-hero-content" data-zappy-align-target="true" >
+  <div class="index-hero-content" data-zappy-align-target="true" style="">
     <!-- Thin horizontal copper rule above headline -->
     <div class="index-hero-rule-top" aria-hidden="true"></div>
 
-    <ul ></ul>
+    <ul style=""></ul>
 
     <!-- Thin horizontal copper rule below headline -->
     <div class="index-hero-rule-bottom" aria-hidden="true"></div>
 
     <h3 class="index-hero-subtitle" style="max-width: 1400px; margin-left: auto; margin-right: auto; text-align: center;" data-zappy-text-width="custom"><span style="font-style: normal;">מותג ישראלי לאביזרי אמבטיה ופתרונות עיצוב נקי, מודרני ומדויק.
-<br><br>שילוב בין פונקציונליות לאסתטיקה. <br><br>מוצרים שנבחרו מתוך ניסיון אמיתי מהשטח.</span></h3>
+<br>שילוב בין פונקציונליות לאסתטיקה. <br>מוצרים שנבחרו מתוך ניסיון אמיתי מהשטח.</span></h3>
 
-    <div class="index-hero-ctas" >
+    <div class="index-hero-ctas" style="">
       <a href="/product" class="index-hero-btn-primary" data-element-type="button" data-element-id="btn-1778149038526-2cudc8aoi" data-native-element="true" style="outline: none;">גלו את המוצרים</a>
       <a href="/contact" class="index-hero-btn-secondary" data-element-type="button" data-element-id="btn-1778149038526-u4mb2y1k2" data-native-element="true">צור קשר</a>
     </div>
@@ -891,7 +891,7 @@
       <div class="index-features-rule" aria-hidden="true"></div>
       <h2 class="index-features-heading">עיצוב נקי.
 איכות שנשארת.</h2>
-      <p class="index-features-subheading" >ANAEL מתמחה בפיתוח וייבוא אביזרי אמבטיה ופתרונות התקנה בקו נקי, <br><br>מודרני ומינימליסטי עם דגש על איכות, עמידות ונראות מדויקת.</p>
+      <p class="index-features-subheading" style="">ANAEL מתמחה בפיתוח וייבוא אביזרי אמבטיה ופתרונות התקנה בקו נקי, <br><br>מודרני ומינימליסטי עם דגש על איכות, עמידות ונראות מדויקת.</p>
     </div>
 
     <!-- Feature Grid -->
@@ -903,7 +903,7 @@
         <div class="index-features-card-inner">
           <h3 class="index-features-card-title">עיצוב מינימליסטי ונקי</h3>
           <div class="index-features-card-divider" aria-hidden="true"></div>
-          <p class="index-features-card-text" >כל מוצר של ANAEL מתוכנן עם תשומת לב לקו הנקי ולמראה האחיד. אנחנו שמים דגש על גימור ברמה גבוהה והתאמה מלאה לחללים מודרניים — ללא עומס ויזואלי, רק אסתטיקה מוקפדת.</p>
+          <p class="index-features-card-text" style="">כל מוצר של ANAEL מתוכנן עם תשומת לב לקו הנקי ולמראה האחיד. אנחנו שמים דגש על גימור ברמה גבוהה והתאמה מלאה לחללים מודרניים — ללא עומס ויזואלי, רק אסתטיקה מוקפדת.</p>
           </div>
       </article>
 
@@ -922,7 +922,7 @@
       <article class="index-features-card" data-grid-item-index="2">
         <div class="index-features-card-accent" aria-hidden="true"></div>
         <div class="index-features-card-inner">
-          <h3 class="index-features-card-title" >פתרונות פרקטיים ונוחים&amp;nbsp;</h3>
+          <h3 class="index-features-card-title" style="">פתרונות פרקטיים ונוחים&nbsp;</h3>
           <div class="index-features-card-divider" aria-hidden="true"></div>
           <p class="index-features-card-text">כל מוצר של ANAEL מתוכנן לנוחות התקנה מקסימלית — עם הנחיות ברורות, חיבורים פשוטים וגימור שמשתלב בטבעיות. פתרונות שנבנו לעבוד נכון מהיום הראשון ולאורך שנים.</p>
           
