@@ -246,6 +246,271 @@
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
+
+<style data-zappy-section-v2-css="true">
+/* V2 Regenerated Section CSS */
+.home-layout-section {
+  position: relative;
+  background-color: #1A1714;
+  background-image:
+    radial-gradient(ellipse 60% 40% at 80% 20%, rgba(196,132,90,0.10) 0%, transparent 65%),
+    radial-gradient(ellipse 50% 35% at 20% 80%, rgba(196,132,90,0.07) 0%, transparent 60%),
+    linear-gradient(180deg, #1A1714 0%, #1E1B16 100%);
+  color: var(--text-light);
+  padding: 100px 24px 80px;
+  overflow: visible;
+  direction: rtl;
+}
+
+.home-layout-section .home-layout-container {
+  max-width: 760px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  position: relative;
+  z-index: 2;
+}
+
+/* ── Top Ornament ── */
+.home-layout-section .home-layout-top-ornament {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 28px;
+  width: 100%;
+  max-width: 200px;
+}
+
+.home-layout-section .home-layout-ornament-line {
+  flex: 1;
+  height: 1px;
+  background: rgba(196,132,90,0.35);
+  display: block;
+}
+
+.home-layout-section .home-layout-ornament-diamond {
+  display: block;
+  width: 6px;
+  height: 6px;
+  background: rgba(196,132,90,0.65);
+  transform: rotate(45deg);
+  flex-shrink: 0;
+}
+
+/* ── Section Label ── */
+.home-layout-section .home-layout-label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+.home-layout-section .home-layout-label-bar {
+  display: block;
+  width: 3px;
+  height: 18px;
+  background: rgba(196,132,90,0.7);
+  flex-shrink: 0;
+}
+
+.home-layout-section .home-layout-label-text {
+  font-family: 'Assistant', 'Heebo', Arial, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(196,132,90,0.85);
+  text-align: center;
+}
+
+/* ── Main Heading ── */
+.home-layout-section .home-layout-heading {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.15;
+  letter-spacing: 0.02em;
+  color: #F0EAE2;
+  text-align: center;
+  margin: 0 0 28px 0;
+  max-width: 680px;
+}
+
+/* ── Decorative SVG Divider ── */
+.home-layout-section .home-layout-divider {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+}
+
+/* ── Vision Text Block ── */
+.home-layout-section .home-layout-text-block {
+  width: 100%;
+  max-width: 680px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin-bottom: 56px;
+}
+
+.home-layout-section .home-layout-para {
+  font-family: 'Assistant', 'Heebo', Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.85;
+  color: #A09689;
+  text-align: center;
+  margin: 0;
+  padding: 24px 0;
+}
+
+.home-layout-section .home-layout-para--lead {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #BDB3A8;
+  font-weight: 500;
+}
+
+/* ── Thin rule between paragraphs ── */
+.home-layout-section .home-layout-rule-thin {
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(to left, transparent 0%, rgba(196,132,90,0.18) 30%, rgba(196,132,90,0.18) 70%, transparent 100%);
+}
+
+/* ── Figure / Image ── */
+.home-layout-section .home-layout-figure {
+  width: 100%;
+  max-width: 720px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.home-layout-section .home-layout-image-frame {
+  position: relative;
+  width: 100%;
+  border: 1px solid rgba(196,132,90,0.18);
+  overflow: hidden;
+  box-shadow: 0 24px 70px rgba(0,0,0,0.5);
+}
+
+.home-layout-section .home-layout-image-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 800 / 480;
+  object-fit: cover;
+  filter: brightness(0.92) saturate(0.9);
+  transition: filter 0.5s ease;
+}
+
+.home-layout-section .home-layout-image-frame:hover img {
+  filter: brightness(1) saturate(1);
+}
+
+/* Copper corner accents */
+.home-layout-section .home-layout-corner {
+  position: absolute;
+  display: block;
+  width: 20px;
+  height: 20px;
+  pointer-events: none;
+  z-index: 3;
+}
+
+.home-layout-section .home-layout-corner--tr {
+  top: 10px;
+  inset-inline-end: 10px;
+  border-top: 1.5px solid rgba(196,132,90,0.6);
+  border-inline-end: 1.5px solid rgba(196,132,90,0.6);
+}
+
+.home-layout-section .home-layout-corner--bl {
+  bottom: 10px;
+  inset-inline-start: 10px;
+  border-bottom: 1.5px solid rgba(196,132,90,0.6);
+  border-inline-start: 1.5px solid rgba(196,132,90,0.6);
+}
+
+/* ── Caption ── */
+.home-layout-section .home-layout-caption {
+  font-family: 'Assistant', 'Heebo', Arial, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  color: rgba(196,132,90,0.65);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* ── Bottom Ornament ── */
+.home-layout-section .home-layout-bottom-ornament {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 48px;
+  width: 100%;
+  max-width: 200px;
+}
+
+/* ── Ambient glow ── */
+.home-layout-section .home-layout-glow {
+  position: absolute;
+  top: 10%;
+  inset-inline-end: -5%;
+  width: 280px;
+  height: 320px;
+  background: radial-gradient(ellipse at center, rgba(212,149,106,0.10) 0%, transparent 70%);
+  pointer-events: none;
+  z-index: 0;
+  border-radius: 50%;
+  filter: blur(40px);
+  opacity: 0.7;
+}
+
+/* ── RESPONSIVE ── */
+@media (max-width: 768px) {
+  .home-layout-section {
+    padding: 100px 20px 60px;
+  }
+
+  .home-layout-section .home-layout-heading {
+    font-size: 2rem;
+    letter-spacing: 0.01em;
+  }
+
+  .home-layout-section .home-layout-para {
+    font-size: 1rem;
+    padding: 18px 0;
+  }
+
+  .home-layout-section .home-layout-para--lead {
+    font-size: 1rem;
+  }
+
+  .home-layout-section .home-layout-text-block {
+    margin-bottom: 36px;
+  }
+
+  .home-layout-section .home-layout-glow {
+    width: 180px;
+    height: 200px;
+    inset-inline-end: -10%;
+  }
+}
+
+@media (min-width: 769px) {
+  .home-layout-section {
+    padding: 120px 40px 100px;
+  }
+}
+</style>
     <link rel="stylesheet" href="/styles.css">
 
     <style id="zappy-dropdown-submenu-styles">
@@ -1002,20 +1267,71 @@
 
 
 
-<section class="index-cta-section" data-layout-spec="בית-cta" dir="rtl">
-  <div class="index-cta-inner">
-    <div class="index-cta-frame">
-      <div class="index-cta-content">
-        <div class="index-cta-rule-top" aria-hidden="true"></div>
-        <h2 class="index-cta-heading">גלו את עולם ANAEL</h2>
-        <div class="index-cta-divider" aria-hidden="true"></div>
-        <p class="index-cta-body">מוזמנים לפנות אלינו לייעוץ מקצועי, לתיאום הצגה בחדר תצוגה, או לשילוב מתלה המגבות המוסתר בקיר בפרויקט האמבטיה שלכם.</p>
-        <a href="/contact" class="index-cta-btn">צרו קשר</a>
-        <div class="index-cta-rule-bottom" aria-hidden="true"></div>
-      </div>
+<section class="home-layout-section" data-layout-spec="Home-layout" dir="rtl">
+  <div class="home-layout-container">
+
+    <!-- Decorative top rule -->
+    <div class="home-layout-top-ornament" aria-hidden="true">
+      <span class="home-layout-ornament-line"></span>
+      <span class="home-layout-ornament-diamond"></span>
+      <span class="home-layout-ornament-line"></span>
     </div>
+
+    <!-- Section Label -->
+    <div class="home-layout-label" aria-hidden="true">
+      <span class="home-layout-label-bar"></span>
+      <span class="home-layout-label-text">החזון שלנו</span>
+    </div>
+
+    <!-- Main Heading -->
+    <h2 class="home-layout-heading">חזון, עיצוב ומחויבות לאיכות</h2>
+
+    <!-- Decorative Divider -->
+    <div class="home-layout-divider" aria-hidden="true">
+      <svg data-no-icon-edit="true" aria-hidden="true" width="120" height="2" viewBox="0 0 120 2" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <line x1="0" y1="1" x2="48" y2="1" stroke="#C4845A" stroke-opacity="0.35" stroke-width="1"></line>
+        <rect x="54" y="0" width="12" height="2" fill="#C4845A" fill-opacity="0.6"></rect>
+        <line x1="72" y1="1" x2="120" y2="1" stroke="#C4845A" stroke-opacity="0.35" stroke-width="1"></line>
+      </svg>
+    </div>
+
+    <!-- Vision Text Block -->
+    <div class="home-layout-text-block">
+      <p class="home-layout-para home-layout-para--lead">החזון שלנו הוא ליצור מותג ישראלי מוביל בתחום אביזרי האמבטיה והפתרונות הנסתרים, המשלב בין עיצוב מודרני, איכות גבוהה וחשיבה פונקציונלית אמיתית.</p>
+
+      <div class="home-layout-rule-thin" aria-hidden="true"></div>
+
+      <p class="home-layout-para">אנחנו מאמינים שמוצרים איכותיים אינם צריכים להיות רק יפים — אלא גם עמידים, מדויקים ונוחים לשימוש ולהתקנה לאורך שנים. מתוך היכרות עמוקה עם העבודה בשטח ועם הצרכים האמיתיים של לקוחות ואנשי מקצוע, אנו שואפים לפתח ולהביא פתרונות שמעניקים חוויית שימוש מוקפדת, נקייה ואסתטית, תוך שמירה על סטנדרט גבוה של איכות ושירות.</p>
+
+      <div class="home-layout-rule-thin" aria-hidden="true"></div>
+
+      <p class="home-layout-para">המותג שלנו ממשיך להתפתח מתוך רצון להרחיב את מגוון המוצרים ולבנות קו מוצרים שלם לעולם האמבטיה והעיצוב המודרני.</p>
+    </div>
+
+    <!-- Image -->
+    <figure class="home-layout-figure">
+      <div class="home-layout-image-frame">
+        <img data-context="Elegant minimalist bathroom interior featuring a concealed hidden towel bar integrated flush into a warm stone or plaster wall. The scene is serene and architectural — warm ambient lighting, neutral mineral tones, a neatly folded premium linen towel hanging from the barely-visible recessed bar. The composition is centered, quiet, and premium, evoking craftsmanship and modern bathroom design." width="800" height="480" src="/assets/anael-section-Home-layout-home-layout-image-1.webp" alt="מוט מגבת נסתר מעוצב בחדר אמבטיה מינימליסטי פרמיום">
+        <!-- Copper corner accent top-right -->
+        <span class="home-layout-corner home-layout-corner--tr" aria-hidden="true"></span>
+        <!-- Copper corner accent bottom-left -->
+        <span class="home-layout-corner home-layout-corner--bl" aria-hidden="true"></span>
+      </div>
+      <figcaption class="home-layout-caption">פתרון נסתר — אסתטיקה ותפקוד באחד</figcaption>
+    </figure>
+
+    <!-- Bottom ornament -->
+    <div class="home-layout-bottom-ornament" aria-hidden="true">
+      <span class="home-layout-ornament-line"></span>
+      <span class="home-layout-ornament-diamond"></span>
+      <span class="home-layout-ornament-line"></span>
+    </div>
+
   </div>
-  <div class="index-cta-texture" aria-hidden="true"></div>
+
+  <!-- Ambient glow decoration -->
+  <div class="home-layout-glow" aria-hidden="true"></div>
+
 </section>
   </main>
   
