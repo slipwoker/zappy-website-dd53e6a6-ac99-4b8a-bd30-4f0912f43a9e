@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-27T07:46:53.625Z",
+  "generated_at": "2026-05-27T07:48:01.274Z",
   "base_url": "https://anael-pro.co.il",
   "currency": "ILS",
   "count": 6,
@@ -125,15 +125,15 @@
     },
     {
       "id": "57765b72-d1d2-473f-9594-c7cd757344e8",
-      "slug": "mtlh-mgbvt-nstr-5-ych-shchvr-mfwcxn",
+      "slug": "mtlh-mgbvt-nstr-5-ych-shchvr-tctl92",
       "name": "מתלה מגבות נסתר 5 יח' שחור ",
       "name_translations": {},
       "description": "<p>המתלים עשויים מחומרים עמידים במיוחד בפני לחות וחלודה, ומספקים פתרון תלייה חזק ואסתטי למגבות וחלוקים.</p><p>מקבלים ערכת התקנה מלאה + מקדח תואם במתנה לכל התקנה פשוטה ומהירה, ללא מאמץ!</p><p><br></p><p>הערכה כוללת:</p><p>5 יחידות מתלה, 5 שבלונות לקידוח, מקדח 25 מ\"מ, אביזר לבדיקת עומק הקידוח, שבלונה לדיקוק האריח, אביזר לשמירת האריח בזמן הקידוח</p>",
       "short_description": null,
       "sku": null,
       "brand": "ANAEL",
-      "price": 590,
-      "base_price": 590,
+      "price": 850,
+      "base_price": 850,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -141,9 +141,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-shchvr-mfwcxn",
+      "url": "https://anael-pro.co.il/product/mtlh-mgbvt-nstr-5-ych-shchvr-tctl92",
       "categories": [],
-      "updated_at": "2026-05-27T07:46:22.749Z"
+      "updated_at": "2026-05-27T07:47:30.200Z"
     }
   ]
 }
