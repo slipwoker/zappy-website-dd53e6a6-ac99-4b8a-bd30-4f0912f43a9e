@@ -4910,7 +4910,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### התקנה 
-URL: https://anael-pro.co.il/product/htknh-b795o9
+URL: https://anael-pro.co.il/product/htknh-olce3t
 Price: 10.00 ILS
 Availability: In stock
 
