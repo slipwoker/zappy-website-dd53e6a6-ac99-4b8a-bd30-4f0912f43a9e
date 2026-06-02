@@ -10,6 +10,10 @@
 https://anael-pro.co.il
 מתלה מגבות נסתר שמשנה את פני האמבטיה שלך לתמיד. עיצוב מינימליסטי, פתרון חכם לחלל, ואלגנטיות שמסתתרת בקיר. הכנס לעולם של anael וגלה כיצד.
 
+### Products
+https://anael-pro.co.il/products
+המוצרים שלנו - anael
+
 ### אודות
 https://anael-pro.co.il/about
 anael נולדה מתוך חזון לשנות את האופן שבו אנחנו חושבים על אמבטיה. גלה את הפילוסופיה, הערכים והאנשים שמאחורי מתלה המגבות הנסתר שכבש את לב המעצבים.
@@ -25,6 +29,26 @@ https://anael-pro.co.il/product/:slug
 ### Category
 https://anael-pro.co.il/category/:slug
 מוצרים - anael
+
+### Cart
+https://anael-pro.co.il/cart
+עגלת הקניות שלך
+
+### Checkout
+https://anael-pro.co.il/checkout
+תשלום
+
+### Login
+https://anael-pro.co.il/login
+התחברות לקוחות
+
+### Account
+https://anael-pro.co.il/account
+החשבון שלי
+
+### Order Success
+https://anael-pro.co.il/order-success
+תודה על ההזמנה
 
 ## Legal & Policy
 
